@@ -1,62 +1,62 @@
 [
     {
         "month": "January",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Fully Booked",
+        "hexcode": "#ff0000"
     },
     {
         "month": "February",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Fully Booked",
+        "hexcode": "#ff0000"
     },
     {
         "month": "March",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Near Fully Booked",
+        "hexcode": "#ff8000"
     },
     {
         "month": "April",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Near Fully Booked",
+        "hexcode": "#ff8000"
     },
     {
         "month": "May",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Near Fully Booked",
+        "hexcode": "#ff8000"
     },
     {
         "month": "June",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Available for invites",
+        "hexcode": "#1ac31f"
     },
     {
         "month": "July",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Available for invites",
+        "hexcode": "#1ac31f"
     },
     {
         "month": "August",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Available for invites",
+        "hexcode": "#1ac31f"
     },
     {
         "month": "September",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Available for invites",
+        "hexcode": "#1ac31f"
     },
     {
         "month": "October",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Available for invites",
+        "hexcode": "#1ac31f"
     },
     {
         "month": "November",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Available for invites",
+        "hexcode": "#1ac31f"
     },
     {
         "month": "December",
-        "available": "Insert Here",
-        "hexcode": "#000000"
+        "available": "Available for invites",
+        "hexcode": "#1ac31f"
     }
 ]
