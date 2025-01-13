@@ -1,0 +1,62 @@
+[
+    {
+        "month": "January",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "February",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "March",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "April",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "May",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "June",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "July",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "August",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "September",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "October",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "November",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    },
+    {
+        "month": "December",
+        "available": "Insert Here",
+        "hexcode": "#000000"
+    }
+]
