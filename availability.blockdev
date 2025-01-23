@@ -3,72 +3,72 @@
         "month": "January",
         "available": "Fully Booked",
         "hexcode": "#ff0000",
-        "amount": "N/A"
+        "amount": "4/4"
     },
     {
         "month": "February",
         "available": "Fully Booked",
         "hexcode": "#ff0000",
-        "amount": "N/A"
+        "amount": "6/6"
     },
     {
         "month": "March",
         "available": "Near Fully Booked",
         "hexcode": "#ff8000",
-        "amount": "N/A"
+        "amount": "5/6"
     },
     {
         "month": "April",
         "available": "Near Fully Booked",
         "hexcode": "#ff8000",
-        "amount": "N/A"
+        "amount": "3/6"
     },
     {
         "month": "May",
         "available": "Near Fully Booked",
         "hexcode": "#ff8000",
-        "amount": "N/A"
+        "amount": "4/6"
     },
     {
         "month": "June",
         "available": "Available for invites",
         "hexcode": "#1ac31f",
-        "amount": "N/A"
+        "amount": "2/6"
     },
     {
         "month": "July",
         "available": "Available for invites",
         "hexcode": "#1ac31f",
-        "amount": "N/A"
+        "amount": "2/6"
     },
     {
         "month": "August",
         "available": "Available for invites",
         "hexcode": "#1ac31f",
-        "amount": "N/A"
+        "amount": "1/4"
     },
     {
         "month": "September",
         "available": "Available for invites",
         "hexcode": "#1ac31f",
-        "amount": "N/A"
+        "amount": "1/6"
     },
     {
         "month": "October",
         "available": "Available for invites",
         "hexcode": "#1ac31f",
-        "amount": "N/A"
+        "amount": "1/6"
     },
     {
         "month": "November",
         "available": "Available for invites",
         "hexcode": "#1ac31f",
-        "amount": "N/A"
+        "amount": "2/6"
     },
     {
         "month": "December",
         "available": "Available for invites",
         "hexcode": "#1ac31f",
-        "amount": "N/A"
+        "amount": "1/4"
     }
 ]
