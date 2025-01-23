@@ -2,61 +2,73 @@
     {
         "month": "January",
         "available": "Fully Booked",
-        "hexcode": "#ff0000"
+        "hexcode": "#ff0000",
+        "amount": "N/A"
     },
     {
         "month": "February",
         "available": "Fully Booked",
-        "hexcode": "#ff0000"
+        "hexcode": "#ff0000",
+        "amount": "N/A"
     },
     {
         "month": "March",
         "available": "Near Fully Booked",
-        "hexcode": "#ff8000"
+        "hexcode": "#ff8000",
+        "amount": "N/A"
     },
     {
         "month": "April",
         "available": "Near Fully Booked",
-        "hexcode": "#ff8000"
+        "hexcode": "#ff8000",
+        "amount": "N/A"
     },
     {
         "month": "May",
         "available": "Near Fully Booked",
-        "hexcode": "#ff8000"
+        "hexcode": "#ff8000",
+        "amount": "N/A"
     },
     {
         "month": "June",
         "available": "Available for invites",
-        "hexcode": "#1ac31f"
+        "hexcode": "#1ac31f",
+        "amount": "N/A"
     },
     {
         "month": "July",
         "available": "Available for invites",
-        "hexcode": "#1ac31f"
+        "hexcode": "#1ac31f",
+        "amount": "N/A"
     },
     {
         "month": "August",
         "available": "Available for invites",
-        "hexcode": "#1ac31f"
+        "hexcode": "#1ac31f",
+        "amount": "N/A"
     },
     {
         "month": "September",
         "available": "Available for invites",
-        "hexcode": "#1ac31f"
+        "hexcode": "#1ac31f",
+        "amount": "N/A"
     },
     {
         "month": "October",
         "available": "Available for invites",
-        "hexcode": "#1ac31f"
+        "hexcode": "#1ac31f",
+        "amount": "N/A"
     },
     {
         "month": "November",
         "available": "Available for invites",
-        "hexcode": "#1ac31f"
+        "hexcode": "#1ac31f",
+        "amount": "N/A"
     },
     {
         "month": "December",
         "available": "Available for invites",
-        "hexcode": "#1ac31f"
+        "hexcode": "#1ac31f",
+        "amount": "N/A"
     }
 ]
