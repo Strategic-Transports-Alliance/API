@@ -1,9 +1,9 @@
 [
     {
         "month": "January",
-        "available": "Soon",
+        "available": "Unknown availability",
         "hexcode": "#1ac31f",
-        "amount": "NaN"
+        "amount": "Unknown amount"
     },
     {
         "month": "February",
