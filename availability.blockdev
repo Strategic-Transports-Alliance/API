@@ -1,9 +1,9 @@
 [
     {
         "month": "January",
-        "available": "Fully Booked",
-        "hexcode": "#ff0000",
-        "amount": "4/4"
+        "available": "Soon",
+        "hexcode": "#1ac31f",
+        "amount": "0/0"
     },
     {
         "month": "February",
@@ -37,9 +37,9 @@
     },
     {
         "month": "July",
-        "available": "Available for invites",
-        "hexcode": "#1ac31f",
-        "amount": "2/6"
+        "available": "Near Fully Booked",
+        "hexcode": "#ff8000",
+        "amount": "3/6"
     },
     {
         "month": "August",
