@@ -25,15 +25,15 @@
     },
     {
         "month": "May",
-        "available": "Near Fully Booked",
-        "hexcode": "#ff8000",
-        "amount": "5/6"
+        "available": "Fully Booked",
+        "hexcode": "#ff0000",
+        "amount": "6/6"
     },
     {
         "month": "June",
-        "available": "Available for invites",
-        "hexcode": "#1ac31f",
-        "amount": "2/6"
+        "available": "Nearly Fully Booked",
+        "hexcode": "#FF8000",
+        "amount": "3/6"
     },
     {
         "month": "July",
@@ -43,9 +43,9 @@
     },
     {
         "month": "August",
-        "available": "Available for invites",
-        "hexcode": "#1ac31f",
-        "amount": "2/4"
+        "available": "Nearly Fully Booked",
+        "hexcode": "#FF0000",
+        "amount": "3/4"
     },
     {
         "month": "September",
