@@ -17,9 +17,9 @@
                 "amount": "0/6"
             },
             "April": {
-                "available": "Fully Booked",
-                "hexcode": "#ff0000",
-                "amount": "6/6"
+                "available": "Closed",
+                "hexcode": "#1ac31f",
+                "amount": "0/6"
             },
             "May": {
                 "available": "Fully Booked",
