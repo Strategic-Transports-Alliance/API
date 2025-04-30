@@ -1,62 +1,62 @@
 {
     "response": {
         "availability": {
-            "January": {
+            "january": {
                 "available": "Closed",
                 "hexcode": "#1ac31f",
                 "amount": "0/4"
             },
-            "February": {
+            "february": {
                 "available": "Closed",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "March": {
+            "march": {
                 "available": "Closed",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "April": {
+            "april": {
                 "available": "Closed",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "May": {
+            "may": {
                 "available": "Fully Booked",
                 "hexcode": "#ff0000",
                 "amount": "6/6"
             },
-            "June": {
+            "june": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "3/6"
             },
-            "July": {
+            "july": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "4/6"
             },
-            "August": {
+            "august": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "3/4"
             },
-            "September": {
+            "september": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "October": {
+            "october": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "November": {
+            "november": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "2/6"
             },
-            "December": {
+            "december": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/4"
@@ -64,7 +64,7 @@
         },
         "external_team": {
             "InfoBlock": {
-                "avatar": "https://infoblock.frii.site/assets/logos/Block_Development_Logo.png",
+                "avatar": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/ext_staff/InfoBlock.png",
                 "name": "InfoBlock",
                 "role": "Development Team",
                 "tmp_id": "5370986"
@@ -72,31 +72,31 @@
         },
         "partners": {
             "strategic_supervisions": {
-                "banner": "https://strategictransportsalliance.com/assets/partners/StrategicSupervisions.png",
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/StrategicSupervisions.png",
                 "heading": "Strategic Supervisions",
                 "description": "Are you planning a virtual trucking event and aiming for a flawless, unforgettable experience? Look no further! Our expert Strategic Supervision Service is here to ensure your event runs smoothly from start to finish.",
                 "url": "https://discord.gg/6vh5pQPajV"
             },
             "unity_convoys": {
-                "banner": "https://strategictransportsalliance.com/assets/partners/UnityConvoys.png",
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/UnityConvoys.png",
                 "heading": "Unity Convoys",
                 "description": "Unity Convoys was founded on March 4th, 2024​ by lcplgibling5 and Just Tanging Along in creation to host charity events for all the Community's to come together to help a great Cause. We are happy to help and support all Charity's within the fundraising we are doing within the VTC life.",
                 "url": "https://discord.gg/VZdaQZJhXM"
             },
             "precision_events": {
-                "banner": "https://strategictransportsalliance.com/assets/partners/PrecisionEvents.png",
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/PrecisionEvents.png",
                 "heading": "Precision Events",
                 "description": "Are you planning a virtual trucking event and want it to be a flawless, memorable journey? Look no further! Our expert Convoy Control Service is here to ensure your convoy runs smoothly from start to finish.",
                 "url": "https://discord.gg/J9Q854kTK2"
             },
             "hej_logistics": {
-                "banner": "https://strategictransportsalliance.com/assets/partners/HejLogistics.png",
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/HejLogistics.png",
                 "heading": "Hej! Logistics",
                 "description": "Hej! Logistics is a VTC in rapid expansion. Founded in February (2023) by Bromsnorro and ITZNiohe it has quickly become one of the most suitable companies for new drivers. Hej! offers a wide range of possibilities for people who are in search of a VTC. Already gathering an awesome community of drivers from all around the world!",
                 "url": "https://discord.gg/qVcvYJFuWz"
             },
             "block_development": {
-                "banner": "https://strategictransportsalliance.com/assets/partners/BlockDevelopment.png",
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/BlockDevelopment.png",
                 "heading": "Block Development",
                 "description": "Block Development founded by InfoBlock is a small Development Team focussed on Website and Discord Bot Development. Thanks to Block Development we are able to provide you with this new and better looking Website, everything done on this Website is managed and maintained by them!",
                 "url": "https://discord.com/invite/ZjcZ4RVsn3/"
