@@ -2,31 +2,31 @@
     {
         "month": "January",
         "available": "Closed",
-        "hexcode": "#1ac31f",
+        "hexcode": "#FF0000",
         "amount": "0/4"
     },
     {
         "month": "February",
         "available": "Closed",
-        "hexcode": "#1ac31f",
+        "hexcode": "#FF0000",
         "amount": "0/6"
     },
     {
         "month": "March",
         "available": "Fully Booked",
-        "hexcode": "#ff0000",
+        "hexcode": "#FF0000",
         "amount": "6/6"
     },
     {
         "month": "April",
         "available": "Fully Booked",
-        "hexcode": "#ff0000",
+        "hexcode": "#FF0000",
         "amount": "6/6"
     },
     {
         "month": "May",
         "available": "Fully Booked",
-        "hexcode": "#ff0000",
+        "hexcode": "#FF0000",
         "amount": "6/6"
     },
     {
