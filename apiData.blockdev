@@ -2,23 +2,23 @@
     "response": {
         "availability": {
             "January": {
-                "available": "Closed",
-                "hexcode": "#1ac31f",
+                "available": "Closed Till 01 June 2025",
+                "hexcode": "#ff0000",
                 "amount": "0/4"
             },
             "February": {
-                "available": "Closed",
-                "hexcode": "#1ac31f",
+                "available": "Closed Till 01 June 2025",
+                "hexcode": "#ff0000",
                 "amount": "0/6"
             },
             "March": {
-                "available": "Closed",
-                "hexcode": "#1ac31f",
+                "available": "Closed Till 01 June 2025",
+                "hexcode": "#ff0000",
                 "amount": "0/6"
             },
             "April": {
-                "available": "Closed",
-                "hexcode": "#1ac31f",
+                "available": "Closed Till 01 June 2025",
+                "hexcode": "#ff0000",
                 "amount": "0/6"
             },
             "May": {
