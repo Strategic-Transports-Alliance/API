@@ -1,62 +1,62 @@
 {
     "response": {
         "availability": {
-            "january": {
+            "January": {
                 "available": "Closed",
                 "hexcode": "#1ac31f",
                 "amount": "0/4"
             },
-            "february": {
+            "February": {
                 "available": "Closed",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "march": {
+            "March": {
                 "available": "Closed",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "april": {
+            "April": {
                 "available": "Closed",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "may": {
+            "May": {
                 "available": "Fully Booked",
                 "hexcode": "#ff0000",
                 "amount": "6/6"
             },
-            "june": {
+            "June": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "3/6"
             },
-            "july": {
+            "July": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "4/6"
             },
-            "august": {
+            "August": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "3/4"
             },
-            "september": {
+            "September": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "october": {
+            "October": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "november": {
+            "November": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "2/6"
             },
-            "december": {
+            "December": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/4"
