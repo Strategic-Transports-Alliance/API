@@ -52,13 +52,13 @@
                 "amount": "1/6"
             },
             "November": {
-                "available": "Available for invites",
+                "available": "Nearly Fully Booked",
                 "hexcode": "#1ac31f",
-                "amount": "2/6"
+                "amount": "3/6"
             },
             "December": {
                 "available": "Available for invites",
-                "hexcode": "#1ac31f",
+                "hexcode": "#ff800",
                 "amount": "1/4"
             }
         },
