@@ -29,12 +29,12 @@
             "June": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
-                "amount": "3/6"
+                "amount": "5/6"
             },
             "July": {
-                "available": "Nearly Fully Booked",
-                "hexcode": "#ff8000",
-                "amount": "4/6"
+                "available": "Fully Booked",
+                "hexcode": "#ff0000",
+                "amount": "6/6"
             },
             "August": {
                 "available": "Nearly Fully Booked",
