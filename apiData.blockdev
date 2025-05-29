@@ -58,8 +58,8 @@
             },
             "December": {
                 "available": "Available for invites",
-                "hexcode": "#ff800",
-                "amount": "1/4"
+                "hexcode": "#ff8000",
+                "amount": "2/4"
             }
         },
         "external_team": {
