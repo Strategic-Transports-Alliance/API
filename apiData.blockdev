@@ -29,12 +29,12 @@
             "June": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
-                "amount": "5/6"
+                "amount": "3/6"
             },
             "July": {
-                "available": "Fully Booked",
-                "hexcode": "#ff0000",
-                "amount": "6/6"
+                "available": "Nearly Fully Booked",
+                "hexcode": "#ff8000",
+                "amount": "4/6"
             },
             "August": {
                 "available": "Nearly Fully Booked",
@@ -42,24 +42,24 @@
                 "amount": "3/4"
             },
             "September": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "1/6"
+                "available": "Nearly Fully Booked",
+                "hexcode": "#ff8000",
+                "amount": "3/6"
             },
             "October": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "1/6"
+                "available": "Nearly Fully Booked",
+                "hexcode": "#ff8000",
+                "amount": "3/6"
             },
             "November": {
                 "available": "Nearly Fully Booked",
-                "hexcode": "#1ac31f",
+                "hexcode": "#ff8000",
                 "amount": "3/6"
             },
             "December": {
                 "available": "Available for invites",
-                "hexcode": "#ff8000",
-                "amount": "2/4"
+                "hexcode": "#ff800",
+                "amount": "1/4"
             }
         },
         "external_team": {
