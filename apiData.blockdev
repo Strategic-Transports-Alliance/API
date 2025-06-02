@@ -3,7 +3,7 @@
         "availability": {
             "January": {
                 "available": "Available for invites",
-                "hexcode": "##1ac31f",
+                "hexcode": "#1ac31f",
                 "amount": "1/4"
             },
             "February": {
