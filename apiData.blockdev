@@ -2,29 +2,29 @@
     "response": {
         "availability": {
             "January": {
-                "available": "Closed Till 01 June 2025",
-                "hexcode": "#ff0000",
-                "amount": "0/4"
+                "available": "Available for invites",
+                "hexcode": "##1ac31f",
+                "amount": "1/4"
             },
             "February": {
-                "available": "Closed Till 01 June 2025",
-                "hexcode": "#ff0000",
-                "amount": "0/6"
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "1/6"
             },
             "March": {
-                "available": "Closed Till 01 June 2025",
-                "hexcode": "#ff0000",
-                "amount": "0/6"
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "1/6"
             },
             "April": {
-                "available": "Closed Till 01 June 2025",
-                "hexcode": "#ff0000",
-                "amount": "0/6"
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "1/6"
             },
             "May": {
-                "available": "Fully Booked",
-                "hexcode": "#ff0000",
-                "amount": "6/6"
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "1/6"
             },
             "June": {
                 "available": "Nearly Fully Booked",
