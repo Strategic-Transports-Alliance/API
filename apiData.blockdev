@@ -1,62 +1,62 @@
 {
     "response": {
         "availability": {
-            "January": {
+            "January 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/4"
             },
-            "February": {
+            "February 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "March": {
+            "March 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "April": {
+            "April 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "May": {
+            "May 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "June": {
+            "June 2026": {
                 "available": "Nearly Fully Booked",
-                "hexcode": "#ff8000",
-                "amount": "3/6"
+                "hexcode": "#1ac31f",
+                "amount": "1/6"
             },
-            "July": {
-                "available": "Nearly Fully Booked",
+            "July 2025": {
+                "available": "Available for invites",
                 "hexcode": "#ff8000",
-                "amount": "4/6"
+                "amount": "5/6"
             },
-            "August": {
+            "August 2025": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "3/4"
             },
-            "September": {
+            "September 2025": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "3/6"
             },
-            "October": {
+            "October 2025": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "3/6"
             },
-            "November": {
+            "November 2025": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
                 "amount": "3/6"
             },
-            "December": {
+            "December 2025": {
                 "available": "Available for invites",
                 "hexcode": "#ff8000",
                 "amount": "2/4"
