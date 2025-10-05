@@ -27,19 +27,19 @@
                 "amount": "1/6"
             },
             "June 2026": {
-                "available": "Nearly Fully Booked",
+                "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
-            "July 2025": {
+            "July 2026": {
                 "available": "Available for invites",
-                "hexcode": "#ff8000",
-                "amount": "5/6"
+                "hexcode": "#1ac31f",
+                "amount": "1/6"
             },
-            "August 2025": {
-                "available": "Nearly Fully Booked",
-                "hexcode": "#ff8000",
-                "amount": "3/4"
+            "August 2026": {
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "1/4"
             },
             "September 2025": {
                 "available": "Nearly Fully Booked",
