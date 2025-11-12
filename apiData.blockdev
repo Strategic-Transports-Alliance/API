@@ -41,15 +41,15 @@
                 "hexcode": "#1ac31f",
                 "amount": "1/4"
             },
-            "September 2025": {
-                "available": "Nearly Fully Booked",
-                "hexcode": "#ff8000",
-                "amount": "3/6"
+            "September 2026": {
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "0/6"
             },
-            "October 2025": {
-                "available": "Nearly Fully Booked",
-                "hexcode": "#ff8000",
-                "amount": "3/6"
+            "October 2026": {
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "0/6"
             },
             "November 2025": {
                 "available": "Nearly Fully Booked",
