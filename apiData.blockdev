@@ -7,19 +7,19 @@
                 "amount": "1/4"
             },
             "February 2026": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "1/6"
+                "available": "Nearly Fully Booked",
+                "hexcode": "#ff8000",
+                "amount": "4/6"
             },
             "March 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "1/6"
+                "amount": "2/6"
             },
             "April 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "1/6"
+                "amount": "2/6"
             },
             "May 2026": {
                 "available": "Available for invites",
@@ -44,22 +44,22 @@
             "September 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "amount": "1/6"
             },
             "October 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "amount": "1/6"
             },
-            "November 2025": {
+            "November 2026": {
                 "available": "Nearly Fully Booked",
                 "hexcode": "#ff8000",
-                "amount": "3/6"
+                "amount": "1/6"
             },
-            "December 2025": {
+            "December 2026": {
                 "available": "Available for invites",
                 "hexcode": "#ff8000",
-                "amount": "2/4"
+                "amount": "1/4"
             }
         },
         "external_team": {
@@ -100,6 +100,12 @@
                 "heading": "Block Development",
                 "description": "Block Development founded by InfoBlock is a small Development Team focussed on Website and Discord Bot Development. Thanks to Block Development we are able to provide you with this new and better looking Website, everything done on this Website is managed and maintained by them!",
                 "url": "https://discord.com/invite/ZjcZ4RVsn3/"
+            },
+            "redline_logistix": {
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/RedlineLogistix.png",
+                "heading": "Redline Logistix",
+                "description": "Redline Logistix is a virtual trucking company (VTC) in TruckersMP, established in December of 2025. We pride ourselves on our professionalism, community, and dedication to providing an exceptional trucking experience for our members.",
+                "url": "https://discord.com/invite/hQkxNXeHGr"
             }
         }
     }
