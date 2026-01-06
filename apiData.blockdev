@@ -100,6 +100,12 @@
                 "heading": "Block Development",
                 "description": "Block Development founded by InfoBlock is a small Development Team focussed on Website and Discord Bot Development. Thanks to Block Development we are able to provide you with this new and better looking Website, everything done on this Website is managed and maintained by them!",
                 "url": "https://discord.com/invite/ZjcZ4RVsn3/"
+            },
+            "redline_logistix": {
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/RedlineLogistix.png",
+                "heading": "Redline Logistix",
+                "description": "Redline Logistix is a virtual trucking company (VTC) in TruckersMP, established in December of 2025. We pride ourselves on our professionalism, community, and dedication to providing an exceptional trucking experience for our members.",
+                "url": "https://discord.com/invite/hQkxNXeHGr"
             }
         }
     }
