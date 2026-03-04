@@ -37,9 +37,9 @@
                 "amount": "1/6"
             },
             "August 2026": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "1/4"
+                "available": "Nearly Fully Booked",
+                "hexcode": "#ff8000",
+                "amount": "2/4"
             },
             "September 2026": {
                 "available": "Available for invites",
