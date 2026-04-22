@@ -1,20 +1,20 @@
 {
     "response": {
         "availability": {
-            "January 2026": {
+            "January 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "1/4"
+                "amount": "0/4"
             },
-            "February 2026": {
+            "February 2027": {
                 "available": "Nearly Fully Booked",
-                "hexcode": "#ff8000",
-                "amount": "4/6"
+                "hexcode": "#1ac31f",
+                "amount": "0/6"
             },
-            "March 2026": {
+            "March 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "2/6"
+                "amount": "0/6"
             },
             "April 2026": {
                 "available": "Available for invites",
