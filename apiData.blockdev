@@ -52,13 +52,13 @@
                 "amount": "1/6"
             },
             "November 2026": {
-                "available": "Nearly Fully Booked",
-                "hexcode": "#ff8000",
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
                 "amount": "1/6"
             },
             "December 2026": {
                 "available": "Available for invites",
-                "hexcode": "#ff8000",
+                "hexcode": "#1ac31f",
                 "amount": "1/4"
             }
         },
