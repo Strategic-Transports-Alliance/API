@@ -1,20 +1,20 @@
 {
     "response": {
         "availability": {
-            "January 2027": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "0/4"
+            "January 1955": {
+                "available": "Available for nothing",
+                "hexcode": "#636363",
+                "amount": "2/4"
             },
-            "February 2027": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "0/6"
+            "February 1995": {
+                "available": "Available for yes",
+                "hexcode": "#636363",
+                "amount": "4/6"
             },
-            "March 2027": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "0/6"
+            "March 2025": {
+                "available": "Available for no",
+                "hexcode": "#66666",
+                "amount": "6/6"
             },
             "April 2027": {
                 "available": "Available for invites",
