@@ -23,7 +23,9 @@ jobs:
           const fs = require('fs');
 
           const filePath = './apiData.blockdev';
-          const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+          
+          const raw = fs.readFileSync(filePath, 'utf8');
+          const data = JSON.parse(raw);
 
           const availability = data.response.availability;
           
@@ -44,34 +46,68 @@ jobs:
 
           const now = new Date();
           
-          const currentMonth = months[now.getUTCMonth()];
+          const currentMonthIndex = now.getUTCMonth();
           const currentYear = now.getUTCFullYear();
 
-          const oldKey = `${currentMonth} ${currentYear}`
-          const newKey = `${currentMonth} ${currentYear + 1}`
+          const newAvailability = {};
 
-          if (availability[oldKey]) {
-            const oldValue = availability[oldKey];
+          for (const [key, value] of Object.entries(availability)) {
+            const [month, yearStr] = key.split(' ');
+            
+            let year = parseInt(yearStr, 10);
 
-            const maxAmount = oldValue.amount.split('/')[1];
+            const monthIndex = months.indexOf(month);
 
-            delete availability[oldKey];
+            const isPast = year < currentYear || (year === currentYear && monthIndex < currentMonthIndex);
 
-            availability[newKey] = {
-              available: 'Available for invites',
-              hexcode: '#1ac31f',
-              amount: `0/${maxAmount}`
-            };
+            let newKey = key;
+            let newValue = value;
 
-            console.log(`[Updated] ${oldKey} -> {newKey}`)
-          } else {
-            console.log(`[ERROR] ${oldKey} not found!`)
+            if (isPast) {
+              year = currentYear + 1
+
+              const maxAmount = value.amount.split('/')[1];
+
+              newKey = `${month} ${year}`;
+
+              newValue = {
+                available: 'Available for invites',
+                hexcode: '#1ac31f',
+                amount: `0/${maxAmount}`
+              };
+
+              console.log(`[UPDATED] ${key} -> ${newKey}`);
+            }
+
+            newAvailability[newKey] = newValue;
           }
+
+          const sortedKeys = Object.keys(newAvailability).sort((a, b) => {
+            const [monthA, yearA] = a.split(' ');
+            const [monthB, yearB] = a.split(' ');
+
+            if (parseInt(yearA) !== parseInt(yearB)) {
+              return parseInt(yearA) - parseInt(yearB);
+            }
+
+            return months.indexOf(monthA) - months.indexOf(monthB);
+          });
+
+          const sortedAvailability = {};
+
+          for (const key of sortedKeys) {
+            sortedAvailability[key] = newAvailability[key];
+          }
+
+          data.response.availability = sortedAvailability;
 
           fs.writeFileSync(
             filePath,
-            JSON.stringify(data, null, 4)
+            JSON.stringify(data, null, 4) + '\n',
+            'utf8'
           );
+
+          console.log('[LOG] Finished updating availability');
           EOF
 
       - name: Commit changes
@@ -80,7 +116,10 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
           git add .
-          git commit -m 'Reset monthly availability' || echo 'No changes to commit!
+
+          git status 
+          
+          git commit -m 'Reset monthly availability' || echo 'No changes to commit!'
 
       - name: Push changes
         run: |
