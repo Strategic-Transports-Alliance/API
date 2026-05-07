@@ -64,7 +64,7 @@ jobs:
             let newValue = value;
 
             if (isPast) {
-              currentYear += 1
+              year = currentYear + 1
 
               const maxAmount = value.amount.split('/')[1];
 
