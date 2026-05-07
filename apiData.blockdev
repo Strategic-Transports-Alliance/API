@@ -21,11 +21,6 @@
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "May 2026": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "1/6"
-            },
             "June 2026": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
@@ -60,6 +55,11 @@
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/4"
+            },
+            "May 2027": {
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "0/6"
             }
         },
         "external_team": {
