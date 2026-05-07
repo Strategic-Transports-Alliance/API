@@ -82,6 +82,8 @@ jobs:
             filePath,
             JSON.stringify(data, null, 4)
           );
+
+          console.log('[LOG] Finished updating availability');
           EOF
 
       - name: Commit changes
