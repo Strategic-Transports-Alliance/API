@@ -1,17 +1,17 @@
 {
     "response": {
         "availability": {
-            "January 2020": {
+            "January 2021": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "0/4"
             },
-            "February 2021": {
+            "February 2022": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "March 2023": {
+            "March 2024": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
@@ -21,7 +21,7 @@
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "May 2010": {
+            "May 2011": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
