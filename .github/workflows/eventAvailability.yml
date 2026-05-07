@@ -63,7 +63,7 @@ jobs:
               amount: `0/${maxAmount}`
             };
 
-            console.log(`[Updated] ${oldKey} -> {newKey}`
+            console.log(`[Updated] ${oldKey} -> {newKey}`)
           } else {
             console.log(`[ERROR] ${oldKey} not found!`)
           }
