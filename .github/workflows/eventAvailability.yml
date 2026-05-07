@@ -44,28 +44,38 @@ jobs:
 
           const now = new Date();
           
-          const currentMonth = months[now.getUTCMonth()];
+          const currentMonthIndex = now.getUTCMonth();
           const currentYear = now.getUTCFullYear();
 
-          const oldKey = `${currentMonth} ${currentYear}`
-          const newKey = `${currentMonth} ${currentYear + 1}`
+          const updatedAvailability = {};
 
-          if (availability[oldKey]) {
-            const oldValue = availability[oldKey];
+          for (const [key, value] of Object.entries(availability)) {
+            const [month, yearStr] = key.split(' ');
+            const year = parseInt(yearStr);
 
-            const maxAmount = oldValue.amount.split('/')[1];
+            const monthIndex = months.indexOf(month);
 
-            delete availability[oldKey];
+            let newMonth = month;
+            let newYear = year;
+            let newValue = value;
 
-            availability[newKey] = {
-              available: 'Available for invites',
-              hexcode: '#1ac31f',
-              amount: `0/${maxAmount}`
-            };
+            const isPast = year < currentYear || (year === currentYear && monthIndex < currentMonthIndex);
 
-            console.log(`[Updated] ${oldKey} -> {newKey}`)
-          } else {
-            console.log(`[ERROR] ${oldKey} not found!`)
+            if (isPast) {
+              newYear = year + 1;
+
+              const maxAmount = value.amount.split('/')[1];
+
+              newValue = {
+                available: 'Available for invites',
+                hexcode: '#1ac31f',
+                amount: `0/${maxAmount}`
+              };
+
+              console.log(`[UPDATE] ${key} -> ${newMonth} ${newYear}`);
+            }
+
+            updatedAvailability[`${newMonth} ${newYear}`] = newValue;
           }
 
           fs.writeFileSync(
