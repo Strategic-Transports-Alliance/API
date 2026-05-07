@@ -54,7 +54,7 @@ jobs:
           for (const [key, value] of Object.entries(availability)) {
             const [month, yearStr] = key.split(' ');
             
-            let  year = parseInt(yearStr, 10);
+            let year = parseInt(yearStr, 10);
 
             const monthIndex = months.indexOf(month);
 
@@ -64,7 +64,7 @@ jobs:
             let newValue = value;
 
             if (isPast) {
-              year += 1
+              currentYear += 1
 
               const maxAmount = value.amount.split('/')[1];
 
