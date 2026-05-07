@@ -1,0 +1,75 @@
+name: 'Automatically change the year and availability each month'
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reset-availability:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository Check
+        uses: actions/checkout@v4
+
+      - name: Update availability
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+
+          const filePath = './apiData.blockdev';
+          const data = JSON.parse(fs.readFileSync(filePath, 'utf8));
+
+          const availability = data.response.availability;
+          
+          const months = [
+            'January',
+            'February',
+            'March',
+            'April',
+            'May',
+            'June',
+            'July',
+            'August',
+            'September',
+            'October',
+            'November',
+            'December'
+          ];
+
+          const now = new Date();
+          
+          const currentMonth = months[now.getUTCMonth()];
+          const currentYear = now.getUTCFullYear();
+
+          const oldKey = `${currentMonth} ${currentYear}`
+          const newKey = `${currentMonth} ${currentYear + 1}`
+
+          if (availability[oldKey]) {
+            const oldValue = availability[oldKey];
+
+            const maxAmount = oldValue.amount.split('/')[1];
+
+            delete availability[oldKey];
+
+            availability[newKey] = {
+              available: 'Available for invites',
+              hexcode: '#1ac31f',
+              amount: `0/${maxAmount}`
+            };
+
+            console.log(`[Updated] ${oldKey} -> {newKey}`
+          } else {
+            console.log(`[ERROR] ${oldKey} not found!`)
+          }
+
+          fs.writeFileSync(
+            filePath,
+            JSON.stringify(data, null, 4)
+          );
+          EOF
