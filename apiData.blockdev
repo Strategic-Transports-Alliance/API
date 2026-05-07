@@ -1,22 +1,27 @@
 {
     "response": {
         "availability": {
-            "January 2027": {
+            "January 2020": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "0/4"
             },
-            "February 2027": {
+            "February 2021": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
-            "March 2027": {
+            "March 2023": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
             },
             "April 2027": {
+                "available": "Available for invites",
+                "hexcode": "#1ac31f",
+                "amount": "0/6"
+            },
+            "May 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "0/6"
@@ -55,11 +60,6 @@
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
                 "amount": "1/4"
-            },
-            "May 2027": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "0/6"
             }
         },
         "external_team": {
