@@ -868,7 +868,7 @@
               "items": [
                 {
                   "label": "Punishment Appeal form",
-                  "url": "../contact/appeal"
+                  "url": "../punishment_appeal"
                 }
               ]
             }
