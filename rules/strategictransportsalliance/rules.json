@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2025-05-07",
+  "lastUpdated": "2026-09-06",
   "lastUpdatedBy": "InfoBlock",
   "categories": [
     {
@@ -139,7 +139,7 @@
           "content": [
             {
               "type": "text",
-              "text": "The channels should be used for their named purpose."
+              "text": "All channels must be used for their intended and named purpose. Content should be kept relevant to the channel in which it is posted."
             }
           ]
         },
@@ -149,7 +149,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Minimal swearing."
+              "text": "Swearing should be kept to a minimum. Excessive, aggressive, or inappropriate use of offensive language may result in moderation action."
             }
           ]
         },
@@ -159,7 +159,7 @@
           "content": [
             {
               "type": "text",
-              "text": "English is the only allowed language in this server."
+              "text": "English is the only language permitted within this server to ensure that all content can be appropriately moderated and understood by members."
             }
           ]
         },
@@ -169,7 +169,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Do not share any information that is personal to you."
+              "text": "Do not publicly share personal, private, or sensitive information about yourself or another person within the server."
             }
           ]
         },
@@ -179,7 +179,7 @@
           "content": [
             {
               "type": "text",
-              "text": "SFW memes must be used within this server."
+              "text": "Memes posted within the server must be Safe for Work (SFW) and appropriate for the community."
             }
           ]
         },
@@ -189,7 +189,7 @@
           "content": [
             {
               "type": "text",
-              "text": "SFW GIFs must be used within this server."
+              "text": "GIFs posted within the server must be Safe for Work (SFW) and appropriate for the community."
             }
           ]
         },
@@ -199,7 +199,11 @@
           "content": [
             {
               "type": "text",
-              "text": "NSFW will be removed and punishments issued within accordance to our punishment policy."
+              "text": "Not Safe for Work (NSFW) content is strictly prohibited within the server."
+            },
+            {
+              "type": "text",
+              "text": "NSFW content will be removed, and moderation action will be taken in accordance with our Punishment Policy."
             }
           ]
         }
@@ -216,7 +220,23 @@
           "content": [
             {
               "type": "text",
-              "text": "Tickets must be used in a professional way."
+              "text": "Tickets must be used in a professional and respectful manner at all times."
+            },
+            {
+              "type": "text",
+              "text": "When communicating through a ticket, messages should include an appropriate signature where applicable. For example:"
+            },
+            {
+              "type": "text",
+              "text": "Kind Regards,"
+            },
+            {
+              "type": "text",
+              "text": "Ptegibling5"
+            },
+            {
+              "type": "text",
+              "text": "Strategic Transports Alliance | Founder"
             }
           ]
         },
@@ -226,7 +246,11 @@
           "content": [
             {
               "type": "text",
-              "text": "A maximum of 5 tickets can be opened by 1 user at 1 time."
+              "text": "A maximum of 6 tickets may be open by the same user at any one time."
+            },
+            {
+              "type": "text",
+              "text": "Additional tickets opened beyond this limit may be closed by staff."
             }
           ]
         },
@@ -236,7 +260,11 @@
           "content": [
             {
               "type": "text",
-              "text": "Information must be in English."
+              "text": "English is the only language permitted within tickets."
+            },
+            {
+              "type": "text",
+              "text": "Tickets opened or continued in another language may be closed by staff."
             }
           ]
         },
@@ -246,7 +274,23 @@
           "content": [
             {
               "type": "text",
-              "text": "Tickets that are opened with wrong information are at the degradation of the staff whether it is closed or remains open. Event invite tickets are kept open for you to have a chance to correct the information before it is closed. You get 24 hours to correct the information then the ticket is requested to close, resulting in 48 hours total time for you to correct the information."
+              "text": "Tickets submitted with incorrect, incomplete, or misleading information may be closed or kept open at the discretion of staff, depending on the circumstances."
+            },
+            {
+              "type": "text",
+              "text": "Event invitation tickets will normally be kept open to provide an opportunity for incorrect or missing information to be corrected."
+            },
+            {
+              "type": "text",
+              "text": "You will have 24 hours from the time the correction is requested to provide the required information."
+            },
+            {
+              "type": "text",
+              "text": "After 24 hours, if the required correction has not been made, the ticket will be marked/requested for closure. A further 24-hour period will be provided before the ticket is closed, giving you a maximum of 48 hours to correct the information."
+            },
+            {
+              "type": "text",
+              "text": "Failure to provide the required corrections within the 48-hour period will result in the ticket being closed."
             }
           ]
         },
@@ -256,7 +300,11 @@
           "content": [
             {
               "type": "text",
-              "text": "Ghost tickets will be closed. If nothing is sent within the first hour of the opening time it will be considered a Ghost Ticket."
+              "text": "Tickets must not be opened without a genuine reason or without providing the required information."
+            },
+            {
+              "type": "text",
+              "text": "If no message, information, or reasonable explanation is provided within 1 hour of the ticket being opened, it will be considered a Ghost Ticket and may be closed by staff."
             }
           ]
         }
@@ -273,7 +321,7 @@
           "content": [
             {
               "type": "text",
-              "text": "No shouting."
+              "text": "Shouting, screaming, or deliberately raising your voice excessively is not permitted within voice channels."
             }
           ]
         },
@@ -283,7 +331,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Keep swearing to a minimum."
+              "text": "Swearing must be kept to a minimum. Excessive, aggressive, or inappropriate swearing may result in moderation action."
             }
           ]
         },
@@ -293,7 +341,11 @@
           "content": [
             {
               "type": "text",
-              "text": "Keep background noise low."
+              "text": "Background noise must be kept to a minimum while using voice channels."
+            },
+            {
+              "type": "text",
+              "text": "If you are in a noisy environment, you may be asked to mute your microphone or use Push to Talk to prevent disruption to others."
             }
           ]
         },
@@ -303,7 +355,11 @@
           "content": [
             {
               "type": "text",
-              "text": "Music must follow server rules, whether through bots or your microphone."
+              "text": "Music may be played within voice channels where appropriate, provided that it complies with all server rules."
+            },
+            {
+              "type": "text",
+              "text": "Music played through a bot, soundboard, microphone, or any other method must not be excessively loud or disruptive and must comply with §4.2 - Background Noise."
             }
           ]
         },
@@ -313,7 +369,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Ensure your microphone works properly if using voice channels."
+              "text": "If you are using a voice channel, you must ensure that your microphone is functioning correctly and does not cause excessive static, feedback, distortion, or other disruptive noise."
             }
           ]
         },
@@ -323,17 +379,21 @@
           "content": [
             {
               "type": "text",
-              "text": "Voice changers must not be used."
+              "text": "Voice changers are not permitted within voice channels."
             }
           ]
         },
         {
           "id": "4.7",
-          "title": "Sound Boards",
+          "title": "Soundboards",
           "content": [
             {
               "type": "text",
-              "text": "Sound boards must be kept to a minimum."
+              "text": "Soundboards may be used in moderation, provided they are not excessive, disruptive, or used to deliberately annoy other members."
+            },
+            {
+              "type": "text",
+              "text": "Any content played through a soundboard must comply with the server's content rules."
             }
           ]
         }
@@ -407,7 +467,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Must be out of a previous VTC for more than 14 days / 2 weeks."
+              "text": "Applicants must have been out of their previous VTC for a minimum of 14 days (2 weeks) before applying to join Strategic Transports Alliance."
             }
           ]
         },
@@ -417,7 +477,7 @@
           "content": [
             {
               "type": "text",
-              "text": "No more than 2 active bans."
+              "text": "Applicants must have no more than 2 active TruckersMP bans at the time of their application."
             }
           ]
         },
@@ -427,7 +487,27 @@
           "content": [
             {
               "type": "text",
-              "text": "If joining from a blacklisted VTC or have been banned previous must appeal this before being able to apply to join Strategic Transports Alliance (even if the punishment wasn't directly issued to you, you are technically banned by associating with the Blacklisted VTC)."
+              "text": "If you are joining from, are currently associated with, or have previously been associated with a VTC or group that is blacklisted by Strategic Transports Alliance and its associated organisations, you must successfully appeal the relevant blacklist restrictions before being eligible to apply to join Strategic Transports Alliance."
+            },
+            {
+              "type": "text",
+              "text": "This applies even where the original blacklist or punishment was issued against the VTC or group rather than directly against you. While you remain associated with a blacklisted VTC or group, you are considered subject to the restrictions placed upon that organisation."
+            },
+            {
+              "type": "text",
+              "text": "If you have previously received an individual blacklist or ban from Strategic Transports Alliance or its associated organisations, this must also be successfully appealed before you may apply."
+            },
+            {
+              "type": "text",
+              "text": "A list of currently blacklisted VTCs and groups can be found within the Disclaimer."
+            },
+            {
+              "type": "text",
+              "text": "Appeals: Blacklist and ban appeals can be submitted through our ModMail system or by emailing appeals@strategictransportsalliance.com."
+            },
+            {
+              "type": "text",
+              "text": "Submitting an appeal does not guarantee that the blacklist or ban will be removed. The restriction will remain in effect until the appeal has been reviewed and formally accepted."
             }
           ]
         },
@@ -437,7 +517,15 @@
           "content": [
             {
               "type": "text",
-              "text": "If joining from a partner VTC you must wait 28->31 days depending on the month before being able to apply to join Strategic Transports Alliance."
+              "text": "If you are joining Strategic Transports Alliance after leaving one of our Partner VTCs, you must wait one full calendar month from the date you left that VTC before submitting an application."
+            },
+            {
+              "type": "text",
+              "text": "The exact waiting period will therefore be between 28 and 31 days, depending on the month."
+            },
+            {
+              "type": "text",
+              "text": "For example, if you leave a Partner VTC during February, the applicable waiting period will be 28 days, or 29 days during a leap year."
             }
           ]
         },
@@ -447,7 +535,11 @@
           "content": [
             {
               "type": "text",
-              "text": "External staff can't be from a blacklisted VTC/group."
+              "text": "External staff members must not be members of, staff for, or otherwise officially represent a VTC or group that is currently blacklisted by Strategic Transports Alliance or its associated organisations."
+            },
+            {
+              "type": "text",
+              "text": "Becoming associated with a blacklisted VTC or group while serving as external staff may result in removal from the relevant team."
             }
           ]
         },
@@ -457,7 +549,15 @@
           "content": [
             {
               "type": "text",
-              "text": "Requirement must be met for internal staff. External staff must just stay active and assist where needed within the team they are a part of."
+              "text": "Internal Staff must meet and continue to follow all applicable staff requirements outlined under §12 - Requirements."
+            },
+            {
+              "type": "text",
+              "text": "External Staff are not required to meet the internal staff requirements under §12 unless specifically stated otherwise. However, external staff must remain reasonably active and provide assistance where required within the team they are part of."
+            },
+            {
+              "type": "text",
+              "text": "All internal and external staff remain subject to any other rules, policies, and requirements applicable to their position."
             }
           ]
         }
@@ -474,7 +574,11 @@
           "content": [
             {
               "type": "text",
-              "text": "An event page must be completed to the highest standard possible."
+              "text": "The TruckersMP Event Page must be completed to the highest standard reasonably possible at the time the invitation is submitted."
+            },
+            {
+              "type": "text",
+              "text": "Event pages that are significantly incomplete, contain incorrect information, or do not provide sufficient information about the event may result in the invitation being denied or handled in accordance with §3.3 - Incorrect Information."
             }
           ]
         },
@@ -484,13 +588,14 @@
           "content": [
             {
               "type": "text",
-              "text": "All event invites must contain the following information:"
+              "text": "All event invitations submitted to Strategic Transports Alliance must contain the following information:"
             },
             {
               "type": "list",
               "items": [
+                "Event Name",
                 "Date:",
-                "Server: (can't show event server if event is 60 or more days away)",
+                "Server: (Where available — see §7.2)",
                 "Meeting Time: HH:MM (Timezone)",
                 "Departure Time: HH:MM (Timezone)",
                 "Starting Location:",
@@ -499,10 +604,14 @@
                 "TruckersMP Event Page:",
                 "Slot Booking:",
                 "Game:",
-                "Route map:",
+                "Route Map:",
                 "Route Distance:",
-                "Timezone: (If your VTC operates in a timezone other than UTC or BST)"
+                "Timezone: (Required if your VTC / organisation primarily operates in a timezone other than UTC or BST)"
               ]
+            },
+            {
+              "type": "text",
+              "text": "All information provided must be accurate and up to date at the time the invitation is submitted."
             }
           ]
         },
@@ -512,7 +621,19 @@
           "content": [
             {
               "type": "text",
-              "text": "An invite with Event Server on when the event is out of TruckersMP period of time to get an event server will get auto denied due to incorrect information."
+              "text": "Do not state that an Event Server has been confirmed if the event is outside TruckersMP's applicable timeframe for an Event Server to be confirmed or displayed."
+            },
+            {
+              "type": "text",
+              "text": "If an invitation states that the event will take place on an Event Server before this can be confirmed through TruckersMP, the invitation may be automatically denied for providing incorrect information."
+            },
+            {
+              "type": "text",
+              "text": "You are not required to provide the server under §7.1 where the event is 60 or more days away and this information is not yet available."
+            },
+            {
+              "type": "text",
+              "text": "Strategic Transports Alliance will obtain or confirm the server information when it becomes available."
             }
           ]
         },
@@ -521,44 +642,88 @@
           "title": "Event Priority",
           "content": [
             {
+              "type": "text",
+              "text": "Where multiple events take place at the same or overlapping times, Strategic Transports Alliance will generally prioritise attendance in the following order:"
+            },
+            {
               "type": "list",
               "items": [
-                "Strategic Transports Alliance",
-                "Partners",
-                "Charity Convoys",
-                "Other VTCs",
-                "TruckersMP, Sim Radio convoys (This is due to the levels of lag at these events)"
+                "Strategic Transports Alliance Events",
+                "Partner Events",
+                "Charity Convoys / Events",
+                "Other VTC Events",
+                "TruckersMP and SimRadio Events"
               ]
+            },
+            {
+              "type": "text",
+              "text": "TruckersMP and SimRadio events are given a lower attendance priority due to the typically high number of participants and the increased levels of lag that may occur at these events."
+            },
+            {
+              "type": "text",
+              "text": "Event priority does not guarantee attendance. Staff availability and other operational requirements may also be considered."
             }
           ]
         },
         {
           "id": "7.4",
-          "title": "Multiple-Month Convoys",
+          "title": "Multiple Convoys / Events",
           "content": [
             {
               "type": "text",
-              "text": "For convoys scheduled across multiple months, please ensure that each convoy is submitted as a separate ticket. If multiple convoys are submitted within a single ticket, only the first convoy listed will be processed, and all others will be denied."
+              "text": "Each convoy or event must be submitted through a separate ticket."
+            },
+            {
+              "type": "text",
+              "text": "If multiple convoys or events are submitted within a single ticket, only the first event listed will be processed. Any additional events within the same ticket will be denied and must be submitted separately."
+            },
+            {
+              "type": "text",
+              "text": "This applies regardless of whether the events take place within the same month or across multiple months."
             }
           ]
         },
         {
           "id": "7.5",
-          "title": "STA Admin Time",
+          "title": "STA Administration Time",
           "content": [
             {
               "type": "text",
-              "text": "Strategic Transports Alliance reserves 3 days per convoy. This is to provide our staff with admin time to set up and participate in the convoys."
+              "text": "Strategic Transports Alliance reserves a 3-day operational period for each convoy we attend:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Day 1: The day before the convoy.",
+                "Day 2: The day of the convoy.",
+                "Day 3: The day after the convoy."
+              ]
+            },
+            {
+              "type": "text",
+              "text": "This period provides our staff with sufficient time to prepare for the event, attend the convoy, and complete any required post-event administration."
+            },
+            {
+              "type": "text",
+              "text": "This may affect our ability to accept or attend other events taking place during the same period."
             }
           ]
         },
         {
           "id": "7.6",
-          "title": "STA Convoys",
+          "title": "Strategic Transports Alliance Convoys",
           "content": [
             {
               "type": "text",
-              "text": "Strategic Transports Alliance hosts its convoys every 2 weeks on a Wednesday starting February 2025 (this might change for 2026)."
+              "text": "Strategic Transports Alliance operates its own convoy schedule throughout the year."
+            },
+            {
+              "type": "text",
+              "text": "STA-hosted events take priority over external event invitations where scheduling conflicts occur."
+            },
+            {
+              "type": "text",
+              "text": "Official convoy dates and times will be communicated through the appropriate Strategic Transports Alliance platforms."
             }
           ]
         },
@@ -568,7 +733,11 @@
           "content": [
             {
               "type": "text",
-              "text": "Strategic Transports Alliance does not attend convoys that are not related to trucks. Convoys/Events that involve buses or cars will be denied."
+              "text": "Strategic Transports Alliance attends truck-related convoys and events only."
+            },
+            {
+              "type": "text",
+              "text": "Invitations for events primarily involving cars, buses, or other non-truck vehicles will be denied."
             }
           ]
         },
@@ -577,22 +746,46 @@
           "title": "Event Attendance Timings",
           "content": [
             {
+              "type": "text",
+              "text": "Strategic Transports Alliance uses the following attendance policy based on the advertised meeting time of the event:"
+            },
+            {
               "type": "list",
               "items": [
-                "Events that start before 17:00 UTC Strategic Transports Alliance will only book a public slot",
-                "Events that start after 17:00 to 19:00 UTC Strategic Transports Alliance will only book a slot",
-                "Events that start after 20:00 UTC Strategic Transports Alliance will not attend the convoy"
+                "Before 17:00 UTC: Strategic Transports Alliance will only attend using a public slot / public parking and will not request or book a reserved slot.",
+                "17:00 UTC to 20:00 UTC: Strategic Transports Alliance may request and book a reserved slot.",
+                "After 20:00 UTC: Strategic Transports Alliance will not attend the event."
               ]
+            },
+            {
+              "type": "text",
+              "text": "The advertised meeting time, rather than the departure time, will be used when determining which attendance category applies."
+            },
+            {
+              "type": "text",
+              "text": "Event attendance remains subject to staff availability, scheduling conflicts, event priority, and the other requirements contained within §7."
             }
           ]
         },
         {
           "id": "7.9",
-          "title": "Event Submittion",
+          "title": "Event Submission",
           "content": [
             {
               "type": "text",
-              "text": "Events must not take place within the same calendar month in which the invitation is submitted. This is because our event calendar for the current month will have already been confirmed and finalised."
+              "text": "Event invitations must be submitted before the calendar month in which the event takes place."
+            },
+            {
+              "type": "text",
+              "text": "Events must not take place within the same calendar month in which the invitation is submitted."
+            },
+            {
+              "type": "text",
+              "text": "This is because Strategic Transports Alliance's event calendar for the current month will already have been confirmed and finalised."
+            },
+            {
+              "type": "text",
+              "text": "Example: An event taking place at any point during October must be submitted no later than 30 September. An invitation submitted on 1 October for an October event may be denied, regardless of how many days remain before the event."
             }
           ]
         }
@@ -743,27 +936,135 @@
           "content": [
             {
               "type": "text",
-              "text": "If either a CC or MT is providing STA a service they must sign a Agreement of Service. Failure to sign the document will result in your service being cancelled."
+              "text": "Where a Convoy Control Team (CC) or Media Team (MT) is providing a service to Strategic Transports Alliance or one of its associated organisations, the Service Provider must sign an Agreement of Service before the service is provided."
+            },
+            {
+              "type": "text",
+              "text": "Failure or refusal to sign the Agreement of Service may result in the service being cancelled."
+            },
+            {
+              "type": "text",
+              "text": "Serious or repeated failures to comply with an Agreement of Service may also result in the Service Provider, team, VTC, or organisation being blacklisted in accordance with our applicable policies."
             }
           ]
         },
         {
           "id": "10.1",
-          "title": "STA Services",
+          "title": "Services Provided by Our Organisations",
           "content": [
             {
               "type": "text",
-              "text": "If STA or one of its sub companies is providing a service, a service agreement will be provided for you to sign."
+              "text": "Where Strategic Transports Alliance, Precision Events, Strategic Supervisions, or Unity Convoys is providing a service to another VTC, group, team, or organisation, a Service Agreement will be provided where required."
+            },
+            {
+              "type": "text",
+              "text": "The receiving organisation must agree to and sign the Service Agreement before the agreed service is provided."
+            },
+            {
+              "type": "text",
+              "text": "Failure to complete the required Service Agreement may result in the service being cancelled."
             }
           ]
         },
         {
-          "id": "10.note",
+          "id": "10.2",
+          "title": "Issues Affecting the Service",
+          "content": [
+            {
+              "type": "text",
+              "text": "Any issue that may affect the delivery of an agreed service must be reported as soon as reasonably possible."
+            },
+            {
+              "type": "text",
+              "text": "Where reasonably possible, a minimum of 48 hours' notice must be provided to allow Strategic Transports Alliance and its associated organisations sufficient time to resolve the issue, adjust arrangements, or arrange an alternative Service Provider."
+            },
+            {
+              "type": "text",
+              "text": "Where an issue could not reasonably have been known about 48 hours in advance, it must be communicated as soon as the Service Provider becomes aware of it."
+            }
+          ]
+        },
+        {
+          "id": "10.3",
+          "title": "Professional Communication",
+          "content": [
+            {
+              "type": "text",
+              "text": "All communications relating to an agreed service must remain appropriate, respectful, and professional."
+            },
+            {
+              "type": "text",
+              "text": "This applies to communications before, during, and after the service is provided."
+            }
+          ]
+        },
+        {
+          "id": "10.4",
+          "title": "Standard of Service",
+          "content": [
+            {
+              "type": "text",
+              "text": "The Service Provider must provide the agreed service to a professional and reasonable standard and fulfil the responsibilities agreed within the applicable Agreement of Service or Service Agreement."
+            },
+            {
+              "type": "text",
+              "text": "Failure to provide the agreed service without reasonable explanation may affect future service arrangements and may result in further action where appropriate."
+            }
+          ]
+        },
+        {
+          "id": "10.5",
+          "title": "Rules and Instructions",
+          "content": [
+            {
+              "type": "text",
+              "text": "The Service Provider must comply with all applicable:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "TruckersMP Rules",
+                "Event Rules",
+                "Server-specific rules",
+                "Agreed service requirements",
+                "Reasonable instructions issued by authorised event staff"
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Failure to comply with applicable rules or authorised instructions may result in the Service Provider being removed from the event or the service arrangement being terminated."
+            }
+          ]
+        },
+        {
+          "id": "10.6",
+          "title": "Changes to the Agreed Service",
+          "content": [
+            {
+              "type": "text",
+              "text": "Any changes that may affect the agreed service must be communicated to Strategic Transports Alliance or the relevant associated organisation as soon as possible."
+            },
+            {
+              "type": "text",
+              "text": "This includes changes to staffing, availability, the services being provided, event arrangements, or any other matter that could reasonably affect the delivery of the agreed service."
+            },
+            {
+              "type": "text",
+              "text": "Significant changes must not be made without informing the relevant parties."
+            }
+          ]
+        },
+        {
+          "id": "10.N",
           "title": "Reason for Rule",
           "content": [
             {
               "type": "text",
-              "text": "This rule has been brought in due to recent incidents around receiving a service from a Team."
+              "text": "These requirements have been introduced following previous incidents involving services being provided to or received from external teams."
+            },
+            {
+              "type": "text",
+              "text": "Service Agreements and Agreements of Service are used to ensure that all parties clearly understand what has been agreed, what is expected of them, and what responsibilities they have before a service takes place."
             }
           ]
         }
@@ -885,6 +1186,281 @@
           ]
         }
       ]
+    },
+    {
+      "id": "driverstaffrequirements",
+      "number": 12,
+      "title": "Driver & Staff Requirements",
+      "rules": [
+        {
+          "id": "12.0",
+          "title": "VTC & Staff Livery",
+          "content": [
+            {
+              "type": "text",
+              "text": "All members must use the appropriate Division Livery or authorised Staff Livery at all times while representing Strategic Transports Alliance on TruckersMP."
+            },
+            {
+              "type": "text",
+              "text": "Members must ensure they are using the correct livery for their division, position, or assigned role."
+            }
+          ]
+        },
+        {
+          "id": "12.1",
+          "title": "TruckersMP Rules",
+          "content": [
+            {
+              "type": "text",
+              "text": "All members must follow all applicable TruckersMP Rules while using TruckersMP."
+            },
+            {
+              "type": "text",
+              "text": "This includes, but is not limited to, TruckersMP rules relating to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Collisions.",
+                "Blocking.",
+                "Incorrect-way driving and inappropriate overtaking.",
+                "Reckless driving.",
+                "Inappropriate convoy management and car abuse.",
+                "Featured Zones and Event Servers."
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Where TruckersMP changes or updates its rules, members are expected to follow the current version."
+            },
+            {
+              "type": "links",
+              "items": [
+                {
+                  "label": "TruckersMP Rules",
+                  "url": "https://truckersmp.com/rules"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12.2",
+          "title": "Convoy Attendance",
+          "content": [
+            {
+              "type": "text",
+              "text": "Members should make every reasonable effort to attend convoys and events accepted by Strategic Transports Alliance."
+            },
+            {
+              "type": "text",
+              "text": "Where possible, STA aims to achieve the highest reasonable attendance at events we have committed to attending."
+            }
+          ]
+        },
+        {
+          "id": "12.3",
+          "title": "Staff Instructions",
+          "content": [
+            {
+              "type": "text",
+              "text": "During official Strategic Transports Alliance activities, reasonable instructions issued by the highest-ranking authorised staff member responsible for the activity must be followed."
+            },
+            {
+              "type": "text",
+              "text": "Instructions must not require a member to violate TruckersMP rules, STA rules, event rules, or any other applicable requirements."
+            }
+          ]
+        },
+        {
+          "id": "12.4",
+          "title": "Trucky Requirements",
+          "content": [
+            {
+              "type": "text",
+              "text": "All members must have Trucky installed and correctly configured where required for Strategic Transports Alliance operations and job logging."
+            },
+            {
+              "type": "text",
+              "text": "Members must follow all applicable STA requirements relating to the use of Trucky."
+            }
+          ]
+        },
+        {
+          "id": "12.5",
+          "title": "Conduct Within the TruckersMP Community",
+          "content": [
+            {
+              "type": "text",
+              "text": "Strategic Transports Alliance members are expected to represent the VTC professionally and respectfully throughout the TruckersMP community."
+            },
+            {
+              "type": "text",
+              "text": "Members may be reported to the Human Resources Team where their behaviour towards another member of the TruckersMP community is considered inappropriate, abusive, disruptive, or likely to negatively affect the reputation of Strategic Transports Alliance."
+            }
+          ]
+        },
+        {
+          "id": "12.6",
+          "title": "TruckersMP Punishments",
+          "content": [
+            {
+              "type": "text",
+              "text": "Any punishment issued to a member by TruckersMP must be reported to the Human Resources Team as soon as reasonably possible."
+            },
+            {
+              "type": "text",
+              "text": "Failure to disclose a TruckersMP punishment may result in internal disciplinary action."
+            }
+          ]
+        },
+        {
+          "id": "12.7",
+          "title": "Staff Event Requirements",
+          "content": [
+            {
+              "type": "text",
+              "text": "Internal staff members must attend a minimum of 2 events per calendar month unless an authorised exemption, Leave of Absence, or other reasonable arrangement is in place."
+            }
+          ]
+        },
+        {
+          "id": "12.8",
+          "title": "Driver Event Requirements",
+          "content": [
+            {
+              "type": "text",
+              "text": "Drivers must attend a minimum of 1 event per calendar month unless an authorised exemption, Leave of Absence, or other reasonable arrangement is in place."
+            }
+          ]
+        },
+        {
+          "id": "12.9",
+          "title": "In-Game Tag",
+          "content": [
+            {
+              "type": "text",
+              "text": "All members must display the correct Strategic Transports Alliance in-game tag while representing the VTC on TruckersMP."
+            },
+            {
+              "type": "text",
+              "text": "The tag must comply with both STA and TruckersMP requirements."
+            }
+          ]
+        },
+        {
+          "id": "12.10",
+          "title": "Activity",
+          "content": [
+            {
+              "type": "text",
+              "text": "Members are expected to remain reasonably active within Strategic Transports Alliance."
+            },
+            {
+              "type": "text",
+              "text": "Where circumstances prevent a member from meeting their normal activity requirements, they should inform the appropriate staff team or use the applicable Leave of Absence process."
+            }
+          ]
+        },
+        {
+          "id": "12.11",
+          "title": "Job Logging",
+          "content": [
+            {
+              "type": "text",
+              "text": "All jobs being logged for Strategic Transports Alliance must comply with the applicable VTC job-logging requirements."
+            },
+            {
+              "type": "text",
+              "text": "Members are expected to prioritise jobs that qualify for Real Statistics wherever reasonably possible."
+            }
+          ]
+        },
+        {
+          "id": "12.12",
+          "title": "ETS2 Job Speeds",
+          "content": [
+            {
+              "type": "text",
+              "text": "When completing jobs in Euro Truck Simulator 2, members should keep their job speed below 62 mph where they wish the job to qualify for Real Statistics."
+            },
+            {
+              "type": "text",
+              "text": "Repeatedly logging excessive numbers of Race Statistics jobs may be reviewed by staff."
+            }
+          ]
+        },
+        {
+          "id": "12.13",
+          "title": "ATS Job Speeds",
+          "content": [
+            {
+              "type": "text",
+              "text": "When completing jobs in American Truck Simulator, members should keep their job speed below 112 mph where they wish the job to qualify for Real Statistics."
+            },
+            {
+              "type": "text",
+              "text": "Repeatedly logging excessive numbers of Race Statistics jobs may be reviewed by staff."
+            }
+          ]
+        },
+        {
+          "id": "12.14",
+          "title": "Community Reports",
+          "content": [
+            {
+              "type": "text",
+              "text": "Strategic Transports Alliance drivers and staff may be reported by any member of the TruckersMP community where there is a legitimate concern regarding their behaviour or conduct."
+            },
+            {
+              "type": "text",
+              "text": "Reports should contain sufficient information or evidence to allow the matter to be appropriately reviewed."
+            }
+          ]
+        },
+        {
+          "id": "12.15",
+          "title": "Report Reviews",
+          "content": [
+            {
+              "type": "text",
+              "text": "Reports concerning Strategic Transports Alliance members will be reviewed by the appropriate members of the Human Resources Team and/or Senior Management before a final disciplinary decision is made."
+            },
+            {
+              "type": "text",
+              "text": "Relevant evidence, applicable rules, previous incidents, and the circumstances surrounding the report may be considered as part of the review."
+            }
+          ]
+        },
+        {
+          "id": "12.16",
+          "title": "Disciplinary Action",
+          "content": [
+            {
+              "type": "text",
+              "text": "Where an internal investigation determines that a member has violated Strategic Transports Alliance rules or requirements, disciplinary action may be issued in accordance with §11 - Punishment & Appeals."
+            },
+            {
+              "type": "text",
+              "text": "The disciplinary record should identify the relevant VTC, server, driver, staff, or other applicable rules that were found to have been violated."
+            },
+            {
+              "type": "text",
+              "text": "Where multiple rules have been violated during the same incident, each applicable rule may be recorded as part of the disciplinary action."
+            }
+          ]
+        },
+        {
+          "id": "12.17",
+          "title": "Have Fun",
+          "content": [
+            {
+              "type": "text",
+              "text": "Strategic Transports Alliance is ultimately a community, and members are encouraged to enjoy their time within the VTC, participate in activities, interact with other members, and help maintain a welcoming and enjoyable environment."
+            }
+          ]
+        }
+      ]
     }
   ],
   "disclaimer": {
@@ -929,78 +1505,83 @@
         "items": [
           {
             "section": "§1 - General policies",
-            "rule": "§1 -",
+            "rule": "",
             "text": ""
           },
           {
             "section": "§2 - Text channel policies",
-            "rule": "§2.6",
-            "text": "NSFW will be removed and punishments issued within accordance to our punishment policy"
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§3 - Ticket policies",
-            "rule": "§3.3",
-            "text": "Tickets that are opened with wrong information are at the degradation of the staff whether it is closed or remains open. Event invite tickets are kept open for you to have a chance to correct the information before it is closed. You have 24 hours to correct the information, otherwise the ticket is requested to be closed resulting in an total of 48 hours for your to correct the information"
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§4 - Voice channel policies",
-            "rule": "§4.6 / §4.7",
-            "text": "Voice changers must not be used; Sound boards must be kept to a minimum"
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§5 - Media channel policies",
-            "rule": "§5 -",
+            "rule": "",
             "text": ""
           },
           {
             "section": "§6 - Recruitment policies",
-            "rule": "§6.5",
-            "text": "Requirement must be met for internal staff. External staff must just stay active and assist where needed within the team they are apart of"
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§7 - Event invitation policies",
-            "rule": "§7.1",
-            "text": "All event invites must contain the required event information listed in the current rules."
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§8 - Partnership policies",
-            "rule": "§8.6",
-            "text": "VTC or Group must be more than 1 Year Old"
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§9 - Advertising policies",
-            "rule": "§9.3",
-            "text": "Discord invites unless for slot booking prohibited"
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§10 - Providing service",
-            "rule": "§10.0",
-            "text": "If either a CC or MT is providing STA a service they must sign a Agreement of Service failure to sign the document will result in your service being cancelled"
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§11 - Punishments",
-            "rule": "§11 -",
+            "rule": "",
+            "text": ""
+          },
+          {
+            "section": "§12 - Driver and Staff Requirements",
+            "rule": "",
             "text": ""
           }
         ]
       },
       {
         "type": "text",
-        "text": "Strategic Transports Alliance Senior Management holds the right to change or adapt these rules at times it feels necessary. These rules also apply for the following Strategic Transports Alliance owned servers with some rules being adapted to best fit the needs of the server they are being used in."
-      },
-      {
-        "type": "text",
-        "text": "Covered Servers:"
+        "text": "Black Listed VTCs:"
       },
       {
         "type": "list",
         "items": [
-          "Strategic Transports Alliance",
-          "Strategic Transports Alliance Staff",
-          "Strategic Transports Alliance Network",
-          "Strategic Supervisions",
-          "Precision Events",
-          "Unity Convoys"
+          "Köhlbrand Express",
+          "Wind Logistics",
+          "United Convoys",
+          "Nowt",
+          "Surrey Logistics",
+          "Starlink Logistics",
+          "The Charitable Gamers",
+          "Snowball Media",
+          "Yorkshire Haulage",
+          "Midland Global Logistics"
         ]
       }
     ]
