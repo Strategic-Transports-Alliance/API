@@ -273,7 +273,7 @@
           "content": [
             {
               "type": "text",
-              "text": "No shouting."
+              "text": "Shouting, screaming, or deliberately raising your voice excessively is not permitted within voice channels."
             }
           ]
         },
@@ -283,7 +283,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Keep swearing to a minimum."
+              "text": "Swearing must be kept to a minimum. Excessive, aggressive, or inappropriate swearing may result in moderation action."
             }
           ]
         },
@@ -293,47 +293,59 @@
           "content": [
             {
               "type": "text",
-              "text": "Keep background noise low."
+              "text": "Background noise must be kept to a minimum while using voice channels."
+            },
+            {
+              "type": "text",
+              "text": "If you are in a noisy environment, you may be asked to mute your microphone or use Push to Talk to prevent disruption to others."
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Music",
+          "content": [
+            {
+              "type": "text",
+              "text": "Music may be played within voice channels where appropriate, provided that it complies with all server rules."
+            },
+            {
+              "type": "text",
+              "text": "Music played through a bot, soundboard, microphone, or any other method must not be excessively loud or disruptive and must comply with §4.2 - Background Noise."
             }
           ]
         },
         {
           "id": "4.4",
-          "title": "Music",
+          "title": "Microphone",
           "content": [
             {
               "type": "text",
-              "text": "Music must follow server rules, whether through bots or your microphone."
+              "text": "If you are using a voice channel, you must ensure that your microphone is functioning correctly and does not cause excessive static, feedback, distortion, or other disruptive noise."
             }
           ]
         },
         {
           "id": "4.5",
-          "title": "Microphone",
+          "title": "Voice Changers",
           "content": [
             {
               "type": "text",
-              "text": "Ensure your microphone works properly if using voice channels."
+              "text": "Voice changers are not permitted within voice channels."
             }
           ]
         },
         {
           "id": "4.6",
-          "title": "Voice Changers",
+          "title": "Soundboards",
           "content": [
             {
               "type": "text",
-              "text": "Voice changers must not be used."
-            }
-          ]
-        },
-        {
-          "id": "4.7",
-          "title": "Sound Boards",
-          "content": [
+              "text": "Soundboards may be used in moderation, provided they are not excessive, disruptive, or used to deliberately annoy other members."
+            },
             {
               "type": "text",
-              "text": "Sound boards must be kept to a minimum."
+              "text": "Any content played through a soundboard must comply with the server's content rules."
             }
           ]
         }
