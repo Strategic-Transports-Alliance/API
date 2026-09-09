@@ -1,0 +1,1399 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-09-09",
+  "lastUpdatedBy": "InfoBlock",
+  "categories": [
+    {
+      "id": "generalpolicies",
+      "number": 1,
+      "title": "General Policies",
+      "rules": [
+        {
+          "id": "1.0",
+          "title": "Discord Terms of Service",
+          "content": [
+            {
+              "type": "text",
+              "text": "Discord Terms of Service apply to everyone during their time in the server."
+            },
+            {
+              "type": "links",
+              "items": [
+                {
+                  "label": "Discord Terms of Service",
+                  "url": "https://discord.com/terms"
+                },
+                {
+                  "label": "Discord Community Guidelines",
+                  "url": "https://discord.com/guidelines"
+                },
+                {
+                  "label": "Discord Community Server Guidelines",
+                  "url": "https://support.discord.com/hc/en-us/articles/360035969312-Community-Server-Guidelines"
+                },
+                {
+                  "label": "Discord Stage Channel Guidelines",
+                  "url": "https://support.discord.com/hc/en-us/articles/1500010879761-Stage-Channel-Guidelines"
+                },
+                {
+                  "label": "Discord Policy Hub",
+                  "url": "https://discord.com/safety-policies"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1.1",
+          "title": "Language",
+          "content": [
+            {
+              "type": "text",
+              "text": "English is the only language to be used within the server unless otherwise authorised by Unity Convoys Management."
+            }
+          ]
+        },
+        {
+          "id": "1.2",
+          "title": "Alt Accounts",
+          "content": [
+            {
+              "type": "text",
+              "text": "Alternative accounts are prohibited."
+            },
+            {
+              "type": "text",
+              "text": "Exceptions may be made for VTC event accounts, management accounts, or other accounts being used in a legitimate professional capacity."
+            },
+            {
+              "type": "text",
+              "text": "VTC poaching is not considered a professional capacity."
+            }
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": "TruckersMP Staff",
+          "content": [
+            {
+              "type": "text",
+              "text": "You must not contact TruckersMP Staff regarding internal issues, decisions, or punishments issued by Unity Convoys Management."
+            }
+          ]
+        },
+        {
+          "id": "1.4",
+          "title": "Appropriate Behavior",
+          "content": [
+            {
+              "type": "text",
+              "text": "Appropriate behaviour is required at all times."
+            },
+            {
+              "type": "text",
+              "text": "Unity Convoys operates zero tolerance towards:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Homophobia",
+                "Ableism",
+                "NSFW content",
+                "Bullying"
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Other discriminatory, abusive, threatening, or seriously inappropriate behaviour may also result in moderation action."
+            }
+          ]
+        },
+        {
+          "id": "1.5",
+          "title": "Staff Rules",
+          "content": [
+            {
+              "type": "text",
+              "text": "Staff must adhere to all applicable Unity Convoys rules at all times."
+            }
+          ]
+        },
+        {
+          "id": "1.6",
+          "title": "Backseat Moderation",
+          "content": [
+            {
+              "type": "text",
+              "text": "Backseat moderation is prohibited."
+            },
+            {
+              "type": "text",
+              "text": "Only authorised staff members may moderate the Unity Convoys community."
+            }
+          ]
+        },
+        {
+          "id": "1.7",
+          "title": "Contacting Staff",
+          "content": [
+            {
+              "type": "text",
+              "text": "Pinging or directly messaging staff regarding Unity Convoys matters is prohibited unless otherwise authorised."
+            },
+            {
+              "type": "text",
+              "text": "Exceptions are made when:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Replying directly to a staff member.",
+                "A staff member has requested that you contact them.",
+                "The matter does not relate to Unity Convoys or any of the servers covered by the Disclaimer."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "textchannelpolicies",
+      "number": 2,
+      "title": "Text Channel Policies",
+      "rules": [
+        {
+          "id": "2.0",
+          "title": "Channel Purpose",
+          "content": [
+            {
+              "type": "text",
+              "text": "All channels must be used for their intended and named purpose."
+            },
+            {
+              "type": "text",
+              "text": "Content should be kept relevant to the channel in which it is posted."
+            }
+          ]
+        },
+        {
+          "id": "2.1",
+          "title": "Swearing",
+          "content": [
+            {
+              "type": "text",
+              "text": "Swearing should be kept to a minimum."
+            },
+            {
+              "type": "text",
+              "text": "Excessive, aggressive, or inappropriate use of offensive language may result in moderation action."
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "Language",
+          "content": [
+            {
+              "type": "text",
+              "text": "English is the only language permitted within the server unless otherwise authorised."
+            },
+            {
+              "type": "text",
+              "text": "This ensures that content can be appropriately moderated and understood by members and staff."
+            }
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "Personal Information",
+          "content": [
+            {
+              "type": "text",
+              "text": "Do not publicly share personal, private, or sensitive information about yourself or another person within the server."
+            }
+          ]
+        },
+        {
+          "id": "2.4",
+          "title": "SFW Memes",
+          "content": [
+            {
+              "type": "text",
+              "text": "Memes posted within the server must be Safe for Work (SFW) and appropriate for the community."
+            }
+          ]
+        },
+        {
+          "id": "2.5",
+          "title": "GIFs",
+          "content": [
+            {
+              "type": "text",
+              "text": "GIFs posted within the server must be Safe for Work (SFW) and appropriate for the community."
+            }
+          ]
+        },
+        {
+          "id": "2.6",
+          "title": "NSFW Content",
+          "content": [
+            {
+              "type": "text",
+              "text": "Not Safe for Work (NSFW) content is strictly prohibited."
+            },
+            {
+              "type": "text",
+              "text": "NSFW content will be removed, and moderation action may be taken in accordance with the Unity Convoys Punishment Policy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ticketpolicies",
+      "number": 3,
+      "title": "Ticket Policies",
+      "rules": [
+        {
+          "id": "3.0",
+          "title": "Professional Use",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tickets must be used in a professional and respectful manner at all times."
+            },
+            {
+              "type": "text",
+              "text": "When communicating through a ticket, messages should include an appropriate signature where applicable."
+            },
+            {
+              "type": "text",
+              "text": "For example:"
+            },
+            {
+              "type": "text",
+              "text": "Kind Regards,"
+            },
+            {
+              "type": "text",
+              "text": "Ptegibling5"
+            },
+            {
+              "type": "text",
+              "text": "Unity Convoys | Chief Executive Officer"
+            }
+          ]
+        },
+        {
+          "id": "3.1",
+          "title": "Ticket Limit",
+          "content": [
+            {
+              "type": "text",
+              "text": "A maximum of 6 tickets may be open by the same user at any one time."
+            },
+            {
+              "type": "text",
+              "text": "Additional tickets opened beyond this limit may be closed by staff."
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Language",
+          "content": [
+            {
+              "type": "text",
+              "text": "English is the only language permitted within tickets unless otherwise authorised."
+            },
+            {
+              "type": "text",
+              "text": "Tickets opened or continued in another language may be closed by staff."
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Incorrect Information",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tickets submitted with incorrect, incomplete, or misleading information may be closed or kept open at the discretion of staff depending on the circumstances."
+            },
+            {
+              "type": "text",
+              "text": "Event and service-related tickets will normally be kept open to provide an opportunity for incorrect or missing information to be corrected."
+            },
+            {
+              "type": "text",
+              "text": "You will have 24 hours from the time a correction is requested to provide the required information."
+            },
+            {
+              "type": "text",
+              "text": "After 24 hours, if the required correction has not been made, the ticket may be marked or requested for closure."
+            },
+            {
+              "type": "text",
+              "text": "A further 24-hour period will then be provided before the ticket is closed, giving you a maximum of 48 hours to correct the information."
+            },
+            {
+              "type": "text",
+              "text": "Failure to provide the required corrections within the 48-hour period may result in the ticket being closed."
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "Ghost Tickets",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tickets must not be opened without a genuine reason or without providing the required information."
+            },
+            {
+              "type": "text",
+              "text": "If no message, information, or reasonable explanation is provided within 1 hour of the ticket being opened, it will be considered a Ghost Ticket and may be closed by staff."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voicechannelpolicies",
+      "number": 4,
+      "title": "Voice Channel Policies",
+      "rules": [
+        {
+          "id": "4.0",
+          "title": "Shouting",
+          "content": [
+            {
+              "type": "text",
+              "text": "Shouting, screaming, or deliberately raising your voice excessively is not permitted within voice channels."
+            }
+          ]
+        },
+        {
+          "id": "4.1",
+          "title": "Swearing",
+          "content": [
+            {
+              "type": "text",
+              "text": "Swearing must be kept to a minimum."
+            },
+            {
+              "type": "text",
+              "text": "Excessive, aggressive, or inappropriate swearing may result in moderation action."
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Background Noise",
+          "content": [
+            {
+              "type": "text",
+              "text": "Background noise must be kept to a minimum while using voice channels."
+            },
+            {
+              "type": "text",
+              "text": "If you are in a noisy environment, you may be asked to mute your microphone or use Push to Talk to prevent disruption to others."
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Music",
+          "content": [
+            {
+              "type": "text",
+              "text": "Music must follow server rules, whether through bots or your microphone."
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "Microphone",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ensure your microphone works properly if using voice channels."
+            }
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "Voice Changers",
+          "content": [
+            {
+              "type": "text",
+              "text": "Voice changers must not be used."
+            }
+          ]
+        },
+        {
+          "id": "4.6",
+          "title": "Soundboards",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sound boards must be kept to a minimum."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mediachannelpolicies",
+      "number": 5,
+      "title": "Media Channel Policies",
+      "rules": [
+        {
+          "id": "5.0",
+          "title": "Prohibited Content",
+          "content": [
+            {
+              "type": "text",
+              "text": "Prohibited content includes anything offensive, pornographic, sexually explicit, drug-related, criminal, or otherwise inappropriate for the community."
+            }
+          ]
+        },
+        {
+          "id": "5.1",
+          "title": "Malicious Software",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sharing malicious software, files, or links is prohibited."
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Controversial Subjects",
+          "content": [
+            {
+              "type": "text",
+              "text": "Avoid sharing controversial subjects, political views, or religious opinions within media channels."
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "Gaming Content",
+          "content": [
+            {
+              "type": "text",
+              "text": "Content shared within gaming-related media channels must relate to games or the intended purpose of the channel."
+            }
+          ]
+        },
+        {
+          "id": "5.4",
+          "title": "Text in Media Channels",
+          "content": [
+            {
+              "type": "text",
+              "text": "Do not send standalone text messages within media-only channels unless providing a small and relevant caption for the media being posted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recruitmentpolicies",
+      "number": 6,
+      "title": "Recruitment Policies",
+      "rules": [
+        {
+          "id": "6.0",
+          "title": "Previous VTC",
+          "content": [
+            {
+              "type": "text",
+              "text": "Applicants must have been out of their previous VTC for a minimum of 14 days (2 weeks) before applying to join Unity Convoys."
+            }
+          ]
+        },
+        {
+          "id": "6.1",
+          "title": "Active Bans",
+          "content": [
+            {
+              "type": "text",
+              "text": "Applicants must have no more than 2 active TruckersMP bans at the time of their application."
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Blacklisted VTCs / Groups",
+          "content": [
+            {
+              "type": "text",
+              "text": "If you are joining from, are currently associated with, or have previously been associated with a VTC or group that is blacklisted by Unity Convoys or its associated organisations, you must successfully appeal the relevant blacklist restrictions before being eligible to apply to Unity Convoys."
+            },
+            {
+              "type": "text",
+              "text": "This applies even where the original blacklist or punishment was issued against the VTC or group rather than directly against you."
+            },
+            {
+              "type": "text",
+              "text": "While you remain associated with a blacklisted VTC or group, you may be considered subject to the restrictions placed upon that organisation."
+            },
+            {
+              "type": "text",
+              "text": "If you have previously received an individual blacklist or ban from Unity Convoys or its associated organisations, this must also be successfully appealed before you may apply."
+            },
+            {
+              "type": "text",
+              "text": "A list of currently blacklisted VTCs and groups can be found within the Disclaimer."
+            },
+            {
+              "type": "text",
+              "text": "Submitting an appeal does not guarantee that the blacklist or ban will be removed."
+            },
+            {
+              "type": "text",
+              "text": "The restriction will remain in effect until the appeal has been reviewed and formally accepted."
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Partner VTCs",
+          "content": [
+            {
+              "type": "text",
+              "text": "If you are joining Unity Convoys after leaving one of our Partner VTCs, you must wait one full calendar month from the date you left that VTC before submitting an application."
+            },
+            {
+              "type": "text",
+              "text": "The exact waiting period will therefore be between 28 and 31 days, depending on the month."
+            }
+          ]
+        },
+        {
+          "id": "6.4",
+          "title": "External Staff",
+          "content": [
+            {
+              "type": "text",
+              "text": "External staff members must not be members of, staff for, or otherwise officially represent a VTC or group that is currently blacklisted by Unity Convoys or its associated organisations."
+            },
+            {
+              "type": "text",
+              "text": "Becoming associated with a blacklisted VTC or group while serving as external staff may result in removal from the relevant Unity Convoys team."
+            }
+          ]
+        },
+        {
+          "id": "6.5",
+          "title": "Staff Requirements",
+          "content": [
+            {
+              "type": "text",
+              "text": "Internal Staff must meet and continue to follow all applicable requirements outlined under §12 - Team Requirements."
+            },
+            {
+              "type": "text",
+              "text": "External Staff are not required to meet all internal staff requirements under §12 unless specifically stated otherwise."
+            },
+            {
+              "type": "text",
+              "text": "However, external staff must remain reasonably active and provide assistance where required within the team they are part of."
+            },
+            {
+              "type": "text",
+              "text": "All internal and external staff remain subject to any other rules, policies, and requirements applicable to their position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eventservicerequests",
+      "number": 7,
+      "title": "Event and Service Requests",
+      "rules": [
+        {
+          "id": "7.0",
+          "title": "Event Page",
+          "content": [
+            {
+              "type": "text",
+              "text": "The TruckersMP Event Page must be completed to the highest standard reasonably possible where applicable."
+            },
+            {
+              "type": "text",
+              "text": "Event pages that are significantly incomplete, contain incorrect information, or do not provide sufficient information about the event may result in a request being denied or handled in accordance with §3.3 - Incorrect Information."
+            }
+          ]
+        },
+        {
+          "id": "7.1",
+          "title": "Required Event Information",
+          "content": [
+            {
+              "type": "text",
+              "text": "When Unity Convoys invites a VTC, group, or organisation to an event that Unity Convoys itself will not be attending, Unity Convoys will provide the following information:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Event Name",
+                "Date:",
+                "Server: (Where available - see §7.2)",
+                "Meeting Time: HH (Timezone)",
+                "Departure Time: HH (Timezone)",
+                "Starting Location:",
+                "Ending Location:",
+                "DLCs:",
+                "TruckersMP Event Page:",
+                "Slot Booking:",
+                "Game:",
+                "Route Map:",
+                "Route Distance:",
+                "Timezone: (Required if the event primarily operates in a timezone other than UTC or BST)"
+              ]
+            },
+            {
+              "type": "text",
+              "text": "All information provided by Unity Convoys must be accurate and up to date at the time the invitation is sent."
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "Event Server Timing",
+          "content": [
+            {
+              "type": "text",
+              "text": "Unity Convoys will not state that an Event Server has been confirmed if the event is outside TruckersMP's applicable timeframe for an Event Server to be confirmed or displayed."
+            },
+            {
+              "type": "text",
+              "text": "Unity Convoys is not required to provide the server under §7.1 where the event is 60 or more days away and this information is not yet available."
+            },
+            {
+              "type": "text",
+              "text": "Where required, Unity Convoys will obtain or confirm the server information when it becomes available."
+            }
+          ]
+        },
+        {
+          "id": "7.3",
+          "title": "UC Administration Time",
+          "content": [
+            {
+              "type": "text",
+              "text": "Unity Convoys reserves a 3-day operational period for each event it organises, supports, or formally commits to:."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Day 1: The day before the event.",
+                "Day 2: The day of the event.",
+                "Day 3: The day after the event."
+              ]
+            },
+            {
+              "type": "text",
+              "text": "This period provides our team with sufficient time to prepare for the event, carry out the agreed responsibilities, and complete any required post-event administration."
+            },
+            {
+              "type": "text",
+              "text": "This may affect our ability to accept other commitments taking place during the same period."
+            }
+          ]
+        },
+        {
+          "id": "7.4",
+          "title": "Event Type",
+          "content": [
+            {
+              "type": "text",
+              "text": "Unity Convoys primarily operates and supports truck-related convoys and events."
+            },
+            {
+              "type": "text",
+              "text": "Requests involving cars, buses, or other non-truck vehicles may be denied unless specifically approved by Unity Convoys Management."
+            }
+          ]
+        },
+        {
+          "id": "7.5",
+          "title": "Event Timings",
+          "content": [
+            {
+              "type": "text",
+              "text": "Unity Convoys uses the following availability policy based on the advertised meeting time of an event:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Before 17:00 UTC: Unity Convoys may provide limited support, subject to team availability.",
+                "17:00 UTC to 20:00 UTC: Unity Convoys may provide full support, subject to team availability and event requirements.",
+                "After 20:00 UTC: Unity Convoys will normally not accept the event or support request."
+              ]
+            },
+            {
+              "type": "text",
+              "text": "The advertised meeting time, rather than the departure time, will be used when determining which timing category applies."
+            },
+            {
+              "type": "text",
+              "text": "Availability remains subject to staffing, scheduling conflicts, event priority, and the other requirements contained within §7.."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "partnershippolicies",
+      "number": 8,
+      "title": "Partnership Policies",
+      "rules": [
+        {
+          "id": "8.0",
+          "title": "Role",
+          "content": [
+            {
+              "type": "text",
+              "text": "Partner organisations must provide Unity Convoys with an appropriate partnership role within their server."
+            }
+          ]
+        },
+        {
+          "id": "8.1",
+          "title": "Chat Channel",
+          "content": [
+            {
+              "type": "text",
+              "text": "Partner organisations must provide an appropriate partnership or communication channel within their server where required."
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Personal Invites",
+          "content": [
+            {
+              "type": "text",
+              "text": "Personal invitations to convoys must be made by a Senior Management member or another member authorised by Senior Management."
+            }
+          ]
+        },
+        {
+          "id": "8.3",
+          "title": "Announcement",
+          "content": [
+            {
+              "type": "text",
+              "text": "New partnerships must be appropriately announced within the relevant communities and/or social media platforms."
+            }
+          ]
+        },
+        {
+          "id": "8.4",
+          "title": "UC Event Attendance",
+          "content": [
+            {
+              "type": "text",
+              "text": "Partner organisations must have attended or supported at least 1 Unity Convoys event where reasonably possible."
+            }
+          ]
+        },
+        {
+          "id": "8.5",
+          "title": "VTC / Organisation Information",
+          "content": [
+            {
+              "type": "text",
+              "text": "Partners must keep Unity Convoys informed of significant changes relating to their VTC, group, or organisation."
+            },
+            {
+              "type": "text",
+              "text": "This includes, but is not limited to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Closure of the organisation.",
+                "Significant branding changes.",
+                "Logo changes.",
+                "Banner changes.",
+                "Major changes to the organisation's description or purpose.",
+                "Other changes that could reasonably affect the partnership."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.6",
+          "title": "Organisation Age",
+          "content": [
+            {
+              "type": "text",
+              "text": "The VTC, group, or organisation must normally have been operating for more than 1 year before becoming a Unity Convoys partner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "advertisingpolicies",
+      "number": 9,
+      "title": "Advertising Policies",
+      "rules": [
+        {
+          "id": "9.0",
+          "title": "Partner Advertising",
+          "content": [
+            {
+              "type": "text",
+              "text": "Partners may advertise within their designated partnership channels where provided."
+            }
+          ]
+        },
+        {
+          "id": "9.1",
+          "title": "Senior Management Approval",
+          "content": [
+            {
+              "type": "text",
+              "text": "Advertising outside designated areas requires prior approval from Unity Convoys Senior Management."
+            }
+          ]
+        },
+        {
+          "id": "9.2",
+          "title": "Self Promotion",
+          "content": [
+            {
+              "type": "text",
+              "text": "Self-promotion is prohibited unless it has been approved by Unity Convoys Management."
+            }
+          ]
+        },
+        {
+          "id": "9.3",
+          "title": "Discord Invites",
+          "content": [
+            {
+              "type": "text",
+              "text": "Discord invitation links are prohibited unless they are required for an approved purpose, such as event or slot booking, or have been authorised by Management."
+            }
+          ]
+        },
+        {
+          "id": "9.4",
+          "title": "Website Links",
+          "content": [
+            {
+              "type": "text",
+              "text": "Website links must relate to Unity Convoys, an approved event, partnership, charitable activity, service, or another authorised purpose."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "providingservice",
+      "number": 10,
+      "title": "Providing service",
+      "rules": [
+        {
+          "id": "10.0",
+          "title": "Agreement of Service",
+          "content": [
+            {
+              "type": "text",
+              "text": "Where a Convoy Control Team (CC) or Media Team (MT) is providing a service to Strategic Transports Alliance or one of its associated organisations, the Service Provider must sign an Agreement of Service before the service is provided."
+            },
+            {
+              "type": "text",
+              "text": "Failure or refusal to sign the Agreement of Service may result in the service being cancelled."
+            },
+            {
+              "type": "text",
+              "text": "Serious or repeated failures to comply with an Agreement of Service may also result in the Service Provider, team, VTC, or organisation being blacklisted in accordance with our applicable policies."
+            }
+          ]
+        },
+        {
+          "id": "10.1",
+          "title": "Services Provided by Our Organisations",
+          "content": [
+            {
+              "type": "text",
+              "text": "Where Strategic Transports Alliance, Precision Events, Strategic Supervisions, or Unity Convoys is providing a service to another VTC, group, team, or organisation, a Service Agreement will be provided where required."
+            },
+            {
+              "type": "text",
+              "text": "The receiving organisation must agree to and sign the Service Agreement before the agreed service is provided."
+            },
+            {
+              "type": "text",
+              "text": "Failure to complete the required Service Agreement may result in the service being cancelled."
+            }
+          ]
+        },
+        {
+          "id": "10.2",
+          "title": "Issues Affecting the Service",
+          "content": [
+            {
+              "type": "text",
+              "text": "Any issue that may affect the delivery of an agreed service must be reported as soon as reasonably possible."
+            },
+            {
+              "type": "text",
+              "text": "Where reasonably possible, a minimum of 48 hours' notice must be provided to allow Strategic Transports Alliance and its associated organisations sufficient time to resolve the issue, adjust arrangements, or arrange an alternative Service Provider."
+            },
+            {
+              "type": "text",
+              "text": "Where an issue could not reasonably have been known about 48 hours in advance, it must be communicated as soon as the Service Provider becomes aware of it."
+            }
+          ]
+        },
+        {
+          "id": "10.3",
+          "title": "Professional Communication",
+          "content": [
+            {
+              "type": "text",
+              "text": "All communications relating to an agreed service must remain appropriate, respectful, and professional."
+            },
+            {
+              "type": "text",
+              "text": "This applies to communications before, during, and after the service is provided."
+            }
+          ]
+        },
+        {
+          "id": "10.4",
+          "title": "Standard of Service",
+          "content": [
+            {
+              "type": "text",
+              "text": "The Service Provider must provide the agreed service to a professional and reasonable standard and fulfil the responsibilities agreed within the applicable Agreement of Service or Service Agreement."
+            },
+            {
+              "type": "text",
+              "text": "Failure to provide the agreed service without reasonable explanation may affect future service arrangements and may result in further action where appropriate."
+            }
+          ]
+        },
+        {
+          "id": "10.5",
+          "title": "Rules and Instructions",
+          "content": [
+            {
+              "type": "text",
+              "text": "The Service Provider must comply with all applicable:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "TruckersMP Rules",
+                "Event Rules",
+                "Server-specific rules",
+                "Agreed service requirements",
+                "Reasonable instructions issued by authorised event staff"
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Failure to comply with applicable rules or authorised instructions may result in the Service Provider being removed from the event or the service arrangement being terminated."
+            }
+          ]
+        },
+        {
+          "id": "10.6",
+          "title": "Changes to the Agreed Service",
+          "content": [
+            {
+              "type": "text",
+              "text": "Any changes that may affect the agreed service must be communicated to Strategic Transports Alliance or the relevant associated organisation as soon as possible."
+            },
+            {
+              "type": "text",
+              "text": "This includes changes to staffing, availability, the services being provided, event arrangements, or any other matter that could reasonably affect the delivery of the agreed service."
+            },
+            {
+              "type": "text",
+              "text": "Significant changes must not be made without informing the relevant parties."
+            }
+          ]
+        },
+        {
+          "id": "10.N",
+          "title": "Reason for Rule",
+          "content": [
+            {
+              "type": "text",
+              "text": "These requirements have been introduced following previous incidents involving services being provided to or received from external teams."
+            },
+            {
+              "type": "text",
+              "text": "Service Agreements and Agreements of Service are used to ensure that all parties clearly understand what has been agreed, what is expected of them, and what responsibilities they have before a service takes place."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "punishments",
+      "number": 11,
+      "title": "Punishments",
+      "rules": [
+        {
+          "id": "11.0",
+          "title": "Warnings",
+          "content": [
+            {
+              "type": "text",
+              "text": "You may have up to 4 warnings logged on your account before a timeout may be issued."
+            }
+          ]
+        },
+        {
+          "id": "11.1",
+          "title": "Timeouts",
+          "content": [
+            {
+              "type": "text",
+              "text": "You may have up to 3 timeouts logged on your account before a kick may be issued."
+            }
+          ]
+        },
+        {
+          "id": "11.2",
+          "title": "Kicks",
+          "content": [
+            {
+              "type": "text",
+              "text": "You may have up to 2 kicks logged on your account before a temporary ban may be issued."
+            }
+          ]
+        },
+        {
+          "id": "11.3",
+          "title": "Temporary Bans",
+          "content": [
+            {
+              "type": "text",
+              "text": "You may have 1 temporary ban before a permanent ban may be issued."
+            }
+          ]
+        },
+        {
+          "id": "11.4",
+          "title": "Bans",
+          "content": [
+            {
+              "type": "text",
+              "text": "A permanent ban may result in an individual or their VTC / organisation being considered for a blacklist."
+            }
+          ]
+        },
+        {
+          "id": "11.5",
+          "title": "Blacklist",
+          "content": [
+            {
+              "type": "text",
+              "text": "A blacklist is a serious restriction and will remain in place unless successfully appealed or removed by authorised Management."
+            }
+          ]
+        },
+        {
+          "id": "11.6",
+          "title": "Staff Decisions",
+          "content": [
+            {
+              "type": "text",
+              "text": "Decisions made by lower-ranking staff may be reviewed or overturned by higher-ranking staff or Senior Management."
+            }
+          ]
+        },
+        {
+          "id": "11.7",
+          "title": "Appeals",
+          "content": [
+            {
+              "type": "text",
+              "text": "Any eligible punishment may be appealed through the applicable Unity Convoys appeal process."
+            },
+            {
+              "type": "text",
+              "text": "Submitting an appeal does not guarantee that the punishment will be removed or reduced."
+            }
+          ]
+        },
+        {
+          "id": "11.8",
+          "title": "Punishment Guidance",
+          "content": [
+            {
+              "type": "text",
+              "text": "Staff members are provided with internal punishment guidance to help ensure that disciplinary action is applied appropriately and consistently."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teamrequirements",
+      "number": 12,
+      "title": "Team Requirements",
+      "rules": [
+        {
+          "id": "12.0",
+          "title": "Unity Convoys Livery",
+          "content": [
+            {
+              "type": "text",
+              "text": "If you are attending an event as a representative of Unity Convoys, you must use the relevant authorised livery and the correct in-game tag for your assigned role within UC where required."
+            }
+          ]
+        },
+        {
+          "id": "12.1",
+          "title": "TruckersMP Rules",
+          "content": [
+            {
+              "type": "text",
+              "text": "All Unity Convoys team members must follow all applicable TruckersMP Rules while using TruckersMP."
+            },
+            {
+              "type": "text",
+              "text": "This includes, but is not limited to, rules relating to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Hacking, bug or feature abuse.",
+                "Collisions.",
+                "Blocking.",
+                "Incorrect-way driving and inappropriate overtaking.",
+                "Reckless driving.",
+                "Inappropriate convoy management and car abuse.",
+                "Featured Zones and Event Servers."
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Where TruckersMP changes or updates its rules, members are expected to follow the current version."
+            },
+            {
+              "type": "links",
+              "items": [
+                {
+                  "label": "TruckersMP Rules",
+                  "url": "https://truckersmp.com/rules"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12.2",
+          "title": "Event Staffing",
+          "content": [
+            {
+              "type": "text",
+              "text": "Unity Convoys organises and supports events which may require multiple team members."
+            },
+            {
+              "type": "text",
+              "text": "Where Unity Convoys commits to an event or service, we will normally aim to provide a minimum of 5 team members where the event requirements require this level of support."
+            },
+            {
+              "type": "text",
+              "text": "The number of team members required is not limited to 5 and may increase depending on:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Event size.",
+                "Route-",
+                "Number of slots.",
+                "Expected attendance.",
+                "Required services.",
+                "Operational requirements."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12.3",
+          "title": "Staff Instructions",
+          "content": [
+            {
+              "type": "text",
+              "text": "During official Unity Convoys activities, reasonable instructions issued by the highest-ranking authorised staff member responsible for the activity must be followed."
+            },
+            {
+              "type": "text",
+              "text": "Instructions must not require a member to violate TruckersMP rules, UC rules, event rules, or any other applicable requirements."
+            }
+          ]
+        },
+        {
+          "id": "12.4",
+          "title": "Conduct Within the TruckersMP Community",
+          "content": [
+            {
+              "type": "text",
+              "text": "Unity Convoys members are expected to represent the organisation professionally and respectfully throughout the TruckersMP community."
+            },
+            {
+              "type": "text",
+              "text": "Members may be reported to the appropriate Unity Convoys Management team where their behaviour towards another member of the TruckersMP community is considered inappropriate, abusive, disruptive, or likely to negatively affect the reputation of Unity Convoys."
+            }
+          ]
+        },
+        {
+          "id": "12.5",
+          "title": "TruckersMP Punishments",
+          "content": [
+            {
+              "type": "text",
+              "text": "Any punishment issued to a Unity Convoys team member by TruckersMP must be reported to the appropriate Unity Convoys Management team as soon as reasonably possible."
+            },
+            {
+              "type": "text",
+              "text": "Failure to disclose a relevant TruckersMP punishment may result in internal disciplinary action."
+            }
+          ]
+        },
+        {
+          "id": "12.6",
+          "title": "In-Game Tag",
+          "content": [
+            {
+              "type": "text",
+              "text": "All team members must display the correct Unity Convoys in-game tag while officially representing Unity Convoys on TruckersMP where required."
+            },
+            {
+              "type": "text",
+              "text": "The tag must comply with both UC and TruckersMP requirements."
+            }
+          ]
+        },
+        {
+          "id": "12.7",
+          "title": "Community Reports",
+          "content": [
+            {
+              "type": "text",
+              "text": "Unity Convoys team members may be reported by any member of the TruckersMP community where there is a legitimate concern regarding their behaviour or conduct."
+            },
+            {
+              "type": "text",
+              "text": "Reports should contain sufficient information or evidence to allow the matter to be appropriately reviewed."
+            }
+          ]
+        },
+        {
+          "id": "12.8",
+          "title": "Report Reviews",
+          "content": [
+            {
+              "type": "text",
+              "text": "Reports concerning Unity Convoys members will be reviewed by the appropriate authorised Management members before a final disciplinary decision is made."
+            },
+            {
+              "type": "text",
+              "text": "Relevant evidence, applicable rules, previous incidents, and the circumstances surrounding the report may be considered as part of the review."
+            }
+          ]
+        },
+        {
+          "id": "12.9",
+          "title": "Disciplinary Action",
+          "content": [
+            {
+              "type": "text",
+              "text": "Where an internal investigation determines that a member has violated Unity Convoys rules or requirements, disciplinary action may be issued in accordance with §11 - Punishments."
+            },
+            {
+              "type": "text",
+              "text": "The disciplinary record should identify the relevant server, event, team, staff, TruckersMP, or other applicable rules that were found to have been violated."
+            },
+            {
+              "type": "text",
+              "text": "Where multiple rules have been violated during the same incident, each applicable rule may be recorded as part of the disciplinary action."
+            }
+          ]
+        },
+        {
+          "id": "12.10",
+          "title": "Have Fun",
+          "content": [
+            {
+              "type": "text",
+              "text": "Unity Convoys is ultimately a community, and team members are encouraged to enjoy their time within the organisation, participate in activities, interact with other members, and help maintain a welcoming and enjoyable environment."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "disclaimer": {
+    "id": "disclaimer",
+    "title": "Disclaimer",
+    "content": [
+      {
+        "type": "text",
+        "text": "Server rules are made with consideration to Discord's Terms of Service and applicable Discord policies unless they relate directly to Unity Convoys operations."
+      },
+      {
+        "type": "text",
+        "text": "These rules may change at any time."
+      },
+      {
+        "type": "text",
+        "text": "The current rule sections are:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "§1 - General Policies",
+          "§2 - Text Channel Policies",
+          "§3 - Ticket Policies",
+          "§4 - Voice Channel Policies",
+          "§5 - Media Channel Policies",
+          "§6 - Recruitment Policies",
+          "§7 - Event and Service Requests",
+          "§8 - Partnership Policies",
+          "§9 - Advertising Policies",
+          "§10 - Providing a Service",
+          "§11 - Punishments",
+          "§12 - Team Requirements"
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Blacklisted VTCs / Groups"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Köhlbrand Express",
+          "Wind Logistics",
+          "United Convoys",
+          "Nowt",
+          "Surrey Logistics",
+          "Starlink Logistics",
+          "The Charitable Gamers",
+          "Snowball Media",
+          "Yorkshire Haulage",
+          "Midland Global Logistics"
+        ]
+      }
+    ]
+  }
+}
