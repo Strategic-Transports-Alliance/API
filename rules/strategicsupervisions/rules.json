@@ -940,58 +940,63 @@
         "type": "changeLog",
         "items": [
           {
-            "section": "§1 - General policies",
-            "rule": "§1 -",
+            "section": "§1 - General Policies",
+            "rule": "",
             "text": ""
           },
           {
-            "section": "§2 - Text channel policies",
-            "rule": "§2.6",
-            "text": "NSFW will be removed and punishments issued within accordance to our punishment policy"
-          },
-          {
-            "section": "§3 - Ticket policies",
-            "rule": "§3.3",
-            "text": "Tickets that are opened with wrong information are at the degradation of the staff whether it is closed or remains open. Event invite tickets are kept open for you to have a chance to correct the information before it is closed. You have 24 hours to correct the information, otherwise the ticket is requested to be closed resulting in an total of 48 hours for your to correct the information"
-          },
-          {
-            "section": "§4 - Voice channel policies",
-            "rule": "§4.6 / §4.7",
-            "text": "Voice changers must not be used; Sound boards must be kept to a minimum"
-          },
-          {
-            "section": "§5 - Media channel policies",
-            "rule": "§5 -",
+            "section": "§2 - Text Channel Policies",
+            "rule": "",
             "text": ""
           },
           {
-            "section": "§6 - Recruitment policies",
-            "rule": "§6.5",
-            "text": "Requirement must be met for internal staff. External staff must just stay active and assist where needed within the team they are apart of"
+            "section": "§3 - Ticket Policies",
+            "rule": "",
+            "text": ""
           },
           {
-            "section": "§7 - Event invitation policies",
-            "rule": "§7.1",
-            "text": "All event invites must contain the required event information listed in the current rules."
+            "section": "§4 - Voice Channel Policies",
+            "rule": "",
+            "text": ""
           },
           {
-            "section": "§8 - Partnership policies",
-            "rule": "§8.6",
-            "text": "VTC or Group must be more than 1 Year Old"
+            "section": "§5 - Media Channel Policies",
+            "rule": "",
+            "text": ""
           },
           {
-            "section": "§9 - Advertising policies",
-            "rule": "§9.3",
-            "text": "Discord invites unless for slot booking prohibited"
+            "section": "§6 - Recruitment Policies",
+            "rule": "",
+            "text": ""
+          },
+          {
+            "section": "§7 - Event invitation Policies",
+            "rule": "",
+            "text": ""
+          },
+          {
+            "section": "§8 - Partnership Policies",
+            "rule": "",
+            "text": ""
+          },
+          {
+            "section": "§9 - Advertising Policies",
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§10 - Providing service",
-            "rule": "§10.0",
-            "text": "If either a CC or MT is providing STA a service they must sign a Agreement of Service failure to sign the document will result in your service being cancelled"
+            "rule": "",
+            "text": ""
           },
           {
             "section": "§11 - Punishments",
-            "rule": "§11 -",
+            "rule": "",
+            "text": ""
+          },
+          {
+            "section": "§12 - Driver and Staff Requirements",
+            "rule": "",
             "text": ""
           }
         ]
