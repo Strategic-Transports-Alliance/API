@@ -6,7 +6,7 @@
     {
       "id": "generalpolicies",
       "number": 1,
-      "title": "General policies",
+      "title": "General Policies",
       "rules": [
         {
           "id": "1.0",
@@ -131,7 +131,7 @@
     {
       "id": "textchannelpolicies",
       "number": 2,
-      "title": "Text channel policies",
+      "title": "Text Channel Policies",
       "rules": [
         {
           "id": "2.0",
@@ -212,7 +212,7 @@
     {
       "id": "ticketpolicies",
       "number": 3,
-      "title": "Ticket policies",
+      "title": "Ticket Policies",
       "rules": [
         {
           "id": "3.0",
@@ -313,7 +313,7 @@
     {
       "id": "voicechannelpolicies",
       "number": 4,
-      "title": "Voice channel policies",
+      "title": "Voice Channel Policies",
       "rules": [
         {
           "id": "4.0",
@@ -350,7 +350,7 @@
           ]
         },
         {
-          "id": "4.4",
+          "id": "4.3",
           "title": "Music",
           "content": [
             {
@@ -364,7 +364,7 @@
           ]
         },
         {
-          "id": "4.5",
+          "id": "4.4",
           "title": "Microphone",
           "content": [
             {
@@ -374,7 +374,7 @@
           ]
         },
         {
-          "id": "4.6",
+          "id": "4.5",
           "title": "Voice Changers",
           "content": [
             {
@@ -384,7 +384,7 @@
           ]
         },
         {
-          "id": "4.7",
+          "id": "4.6",
           "title": "Soundboards",
           "content": [
             {
@@ -402,7 +402,7 @@
     {
       "id": "mediachannelpolicies",
       "number": 5,
-      "title": "Media channel policies",
+      "title": "Media Channel Policies",
       "rules": [
         {
           "id": "5.0",
@@ -459,7 +459,7 @@
     {
       "id": "recruitmentpolicies",
       "number": 6,
-      "title": "Recruitment policies",
+      "title": "Recruitment Policies",
       "rules": [
         {
           "id": "6.0",
@@ -566,7 +566,7 @@
     {
       "id": "eventinvitationpolicies",
       "number": 7,
-      "title": "Event invitation policies",
+      "title": "Event Invitation Policies",
       "rules": [
         {
           "id": "7.0",
@@ -794,7 +794,7 @@
     {
       "id": "partnershippolicies",
       "number": 8,
-      "title": "Partnership policies",
+      "title": "Partnership Policies",
       "rules": [
         {
           "id": "8.0",
@@ -871,7 +871,7 @@
     {
       "id": "advertisingpolicies",
       "number": 9,
-      "title": "Advertising policies",
+      "title": "Advertising Policies",
       "rules": [
         {
           "id": "9.0",
@@ -1504,47 +1504,47 @@
         "type": "changeLog",
         "items": [
           {
-            "section": "§1 - General policies",
+            "section": "§1 - General Policies",
             "rule": "",
             "text": ""
           },
           {
-            "section": "§2 - Text channel policies",
+            "section": "§2 - Text Channel Policies",
             "rule": "",
             "text": ""
           },
           {
-            "section": "§3 - Ticket policies",
+            "section": "§3 - Ticket Policies",
             "rule": "",
             "text": ""
           },
           {
-            "section": "§4 - Voice channel policies",
+            "section": "§4 - Voice Channel Policies",
             "rule": "",
             "text": ""
           },
           {
-            "section": "§5 - Media channel policies",
+            "section": "§5 - Media Channel Policies",
             "rule": "",
             "text": ""
           },
           {
-            "section": "§6 - Recruitment policies",
+            "section": "§6 - Recruitment Policies",
             "rule": "",
             "text": ""
           },
           {
-            "section": "§7 - Event invitation policies",
+            "section": "§7 - Event invitation Policies",
             "rule": "",
             "text": ""
           },
           {
-            "section": "§8 - Partnership policies",
+            "section": "§8 - Partnership Policies",
             "rule": "",
             "text": ""
           },
           {
-            "section": "§9 - Advertising policies",
+            "section": "§9 - Advertising Policies",
             "rule": "",
             "text": ""
           },
