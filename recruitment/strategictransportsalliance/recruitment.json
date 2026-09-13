@@ -10,11 +10,11 @@
                 "open": false,
                 "banners": {
                     "open": {
-                        "image": "",
+                        "image": "https://infoblock-cdn.netlify.app/assets/logos/infoblock%20banner%20%28custom%29.png",
                         "alt": "Recruitment is currently open"
                     },
                     "closed": {
-                        "image": "",
+                        "image": "https://infoblock-cdn.netlify.app/assets/logos/Block_Development_1920x500.jpg",
                         "alt": "Recruitment is currently closed"
                     }
                 }
