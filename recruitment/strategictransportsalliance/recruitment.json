@@ -1,0 +1,48 @@
+{
+    "version": "1",
+    "lastUpdated": "2026-09-14",
+    "lastUpdatedBy": "Callum sucks",
+    "departments": [
+        {
+            "id": "test",
+            "name": "Test Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "",
+                        "alt": "Recruitment is currently open"
+                    },
+                    "closed": {
+                        "image": "",
+                        "alt": "Recruitment is currently closed"
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "test-director",
+                    "name": "Test Director",
+                    "requirements": [
+                        "Requirement 1",
+                        "Requirement 2"
+                    ],
+                    "responsibilities": [
+                        "Responsibility 1",
+                        "Responsibility 2"
+                    ],
+                    "responsibleDirector": {
+                        "name": "Test Director",
+                        "discord": "TestDirector#0001",
+                        "email": "infoblock@strategictransportsalliance.com"
+                    },
+                    "responsibleManager": {
+                        "name": "Test Manager",
+                        "discord": "TestManager#0001",
+                        "email": "infoblock@strategictransportsalliance.com"
+                    }
+                }
+            ]
+        }
+    ]
+}
