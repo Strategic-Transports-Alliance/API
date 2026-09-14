@@ -93,13 +93,13 @@
                 "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/BlockDevelopment.png",
                 "heading": "Block Development",
                 "description": "Block Development founded by InfoBlock is a small Development Team focussed on Website and Discord Bot Development. Thanks to Block Development we are able to provide you with this new and better looking Website, everything done on this Website is managed and maintained by them!",
-                "url": "https://discord.com/invite/ZjcZ4RVsn3/"
+                "url": "https://block-development.pages.dev/"
             },
-            "redline_logistix": {
-                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/RedlineLogistix.png",
-                "heading": "Redline Logistix",
+            "redline_group": {
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/RedlineGroup.png",
+                "heading": "Redline Group",
                 "description": "Redline Logistix is a virtual trucking company (VTC) in TruckersMP, established in December of 2025. We pride ourselves on our professionalism, community, and dedication to providing an exceptional trucking experience for our members.",
-                "url": "https://discord.com/invite/hQkxNXeHGr"
+                "url": "https://redlinevtc.co.uk/"
             },
             "drivexa": {
                 "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/DriveXa.png",
