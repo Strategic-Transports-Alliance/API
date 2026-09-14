@@ -100,6 +100,12 @@
                 "heading": "Redline Logistix",
                 "description": "Redline Logistix is a virtual trucking company (VTC) in TruckersMP, established in December of 2025. We pride ourselves on our professionalism, community, and dedication to providing an exceptional trucking experience for our members.",
                 "url": "https://discord.com/invite/hQkxNXeHGr"
+            },
+            "drivexa": {
+                "banner": "https://raw.githubusercontent.com/Strategic-Transports-Alliance/API/refs/heads/main/partners/DriveXa.png",
+                "heading": "DriveXa",
+                "description": "DriveXa is an all-in-one platform designed to support, connect, and strengthen the virtual trucking community. It provides virtual trucking companies, drivers, event organizers, and industry partners with a shared ecosystem where they can manage their operations, build meaningful relationships, promote events, and discover new opportunities. The platform aims to simplify the way virtual trucking companies operate by bringing essential tools and community features together in one place. Whether you are managing a growing VTC, looking for upcoming convoys, connecting with other organizations, or searching for a community to call home, DriveXa is built to make the experience more accessible, organized, and engaging. At its heart, DriveXa is driven by collaboration rather than competition. Through partnerships with trusted communities and organizations, DriveXa works to bring people together, encourage shared events and initiatives, and give virtual trucking companies of every size an opportunity to grow and be recognized. More than simply a management platform, DriveXa is a developing network for the wider virtual logistics industry—a place where companies can establish their presence, drivers can connect with communities, and partners can help shape what comes next. With a focus on innovation, reliability, and continuous improvement, DriveXa’s goal is to create a stronger and more connected future for virtual trucking.",
+                "url": "https://drivexa.tech/"
             }
         }
     }
