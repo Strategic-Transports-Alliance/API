@@ -1,45 +1,377 @@
 {
     "version": "1",
-    "lastUpdated": "2026-09-14",
-    "lastUpdatedBy": "Callum sucks",
+    "lastUpdated": "2026-09-16",
+    "lastUpdatedBy": "InfoBlock",
     "departments": [
         {
-            "id": "test",
-            "name": "Test Team",
+            "id": "director-sm",
+            "name": "Director / Senior Management",
             "recruitment": {
                 "open": false,
                 "banners": {
                     "open": {
-                        "image": "https://infoblock-cdn.netlify.app/assets/logos/infoblock%20banner%20%28custom%29.png",
-                        "alt": "Recruitment is currently open"
+                        "image": "",
+                        "alt": ""
                     },
                     "closed": {
-                        "image": "https://infoblock-cdn.netlify.app/assets/logos/Block_Development_1920x500.jpg",
-                        "alt": "Recruitment is currently closed"
+                        "image": "",
+                        "alt": ""
                     }
                 }
             },
             "roles": [
                 {
-                    "id": "test-director",
-                    "name": "Test Director",
+                    "id": "director-senior-management",
+                    "name": "Director / Senior Management",
                     "requirements": [
-                        "Requirement 1",
-                        "Requirement 2"
+                        "Must demonstrate a strong understanding of Strategic Transports Alliance (STA), its structure, rules, policies and operating procedures.",
+                        "Must demonstrate strong leadership, communication and decision-making skills.",
+                        "Must be capable of managing staff and resolving internal issues professionally.",
+                        "Must maintain a professional standard when representing STA and any associated groups.",
+                        "Must be trustworthy with confidential or sensitive management information",
+                        "Must be capable of working independently and making appropriate decisions without constant supervision.",
+                        "Must communicate and work effectively with other members of Senior Management.",
+                        "Must demonstrate a high level of activity and commitment to STA.",
+                        "Must have a good standing within STA and the wider community",
+                        "Must disclose any positions, responsibilities or conflicts of interest within other organisations where they could affect their STA responsibilities.",
+                        "Appointment to Director or Senior Management is subject to approval from the Founder/Owner or authorised Senior Management."
                     ],
                     "responsibilities": [
-                        "Responsibility 1",
-                        "Responsibility 2"
+                        "Oversee the operation and development of STA.",
+                        "Provide leadership and guidance to Managers and departments.",
+                        "Ensure STA policies, procedures and standards are being followed.",
+                        "Make decisions concerning the operation, development and future direction of STA.",
+                        "Review serious staff, disciplinary or operational matters where escalation is required.",
+                        "Support Managers when dealing with complex situations.",
+                        "Ensure departments are operating effectively",
+                        "Maintain communication between Senior Management and departmental management.",
+                        "Approve significant departmental changes where required.",
+                        "Represent STA professionally when communicating with external organisations.",
+                        "Protect the reputation and interests of STA and its associated groups.",
+                        "Assist with recruitment or appointment of Managers and other management personnel.",
+                        "Report significant concerns to the Founder/Owner."
                     ],
                     "responsibleDirector": {
-                        "name": "Test Director",
-                        "discord": "TestDirector#0001",
-                        "email": "infoblock@strategictransportsalliance.com"
+                        "name": "ptegibling5",
+                        "discord": "ptegibling5",
+                        "email": "lcplgibling@strategictransportsalliance.com"
                     },
                     "responsibleManager": {
-                        "name": "Test Manager",
-                        "discord": "TestManager#0001",
-                        "email": "infoblock@strategictransportsalliance.com"
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "development-team",
+            "name": "Development Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/Development%20Team.png",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/Development%20Team.png",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "developer",
+                    "name": "Developer",
+                    "requirements": [
+                        ""
+                    ],
+                    "responsibilities": [
+                        ""
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "human-resources",
+            "name": "Human Resources",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/Human%20Resources.png",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/Human%20Resources.png",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "hr",
+                    "name": "Human Resources",
+                    "requirements": [
+                        ""
+                    ],
+                    "responsibilities": [
+                        ""
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "media-team",
+            "name": "Media Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "media",
+                    "name": "Media Staff",
+                    "requirements": [
+                        ""
+                    ],
+                    "responsibilities": [
+                        ""
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "graphics-design-team",
+            "name": "Graphics Design Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "graphics-designer",
+                    "name": "Graphics Designer",
+                    "requirements": [
+                        ""
+                    ],
+                    "responsibilities": [
+                        ""
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "event-team",
+            "name": "Event Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "event",
+                    "name": "Event Staff",
+                    "requirements": [
+                        ""
+                    ],
+                    "responsibilities": [
+                        ""
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "convoy-control-team",
+            "name": "Convoy Control Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "convoy-control",
+                    "name": "Convoy Control",
+                    "requirements": [
+                        ""
+                    ],
+                    "responsibilities": [
+                        ""
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "support-team",
+            "name": "Support Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "support",
+                    "name": "Support",
+                    "requirements": [
+                        ""
+                    ],
+                    "responsibilities": [
+                        ""
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "divisional-management",
+            "name": "Divisional Managegement",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "divisional-manager",
+                    "name": "Divisional Manager",
+                    "requirements": [
+                        ""
+                    ],
+                    "responsibilities": [
+                        ""
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
                     }
                 }
             ]
