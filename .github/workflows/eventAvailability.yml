@@ -60,10 +60,22 @@ jobs:
 
             const isPast = year < currentYear || (year === currentYear && monthIndex < currentMonthIndex);
 
+            const isCurrent = year === currentYear && monthIndex === currentMonthIndex;
+
             let newKey = key;
             let newValue = value;
 
-            if (isPast) {
+            if (isCurrent) {
+              newValue = {
+                ..value,
+                available: 'Booking Closed',
+                hexcode: '#ff0000'
+              }
+
+              console.log(`[CLOSED] ${key} -> Booking Closed (${value.amount})`);
+            }
+
+            else if (isPast) {
               year = currentYear + 1
 
               const maxAmount = value.amount.split('/')[1];
