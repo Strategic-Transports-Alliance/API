@@ -149,11 +149,11 @@
                 "open": false,
                 "banners": {
                     "open": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/Media%20Team.png",
                         "alt": ""
                     },
                     "closed": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/Media%20Team.png",
                         "alt": ""
                     }
                 }
@@ -188,11 +188,11 @@
                 "open": false,
                 "banners": {
                     "open": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/Graphic%20Design%20Team.png",
                         "alt": ""
                     },
                     "closed": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/Graphic%20Design%20Team.png",
                         "alt": ""
                     }
                 }
@@ -227,11 +227,11 @@
                 "open": false,
                 "banners": {
                     "open": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/Event%20Team.png",
                         "alt": ""
                     },
                     "closed": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/Event%20Team.png",
                         "alt": ""
                     }
                 }
@@ -247,8 +247,8 @@
                         ""
                     ],
                     "responsibleDirector": {
-                        "name": "",
-                        "discord": "",
+                        "name": "Fakke",
+                        "discord": "fakke.wav",
                         "email": ""
                     },
                     "responsibleManager": {
@@ -266,11 +266,11 @@
                 "open": false,
                 "banners": {
                     "open": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/Convoy%20Control.png",
                         "alt": ""
                     },
                     "closed": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/Convoy%20Control.png",
                         "alt": ""
                     }
                 }
@@ -305,11 +305,11 @@
                 "open": false,
                 "banners": {
                     "open": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/Support%20Team.png",
                         "alt": ""
                     },
                     "closed": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/Support%20Team.png",
                         "alt": ""
                     }
                 }
@@ -325,8 +325,8 @@
                         ""
                     ],
                     "responsibleDirector": {
-                        "name": "",
-                        "discord": "",
+                        "name": "CelticCarrots",
+                        "discord": "celticcarrots",
                         "email": ""
                     },
                     "responsibleManager": {
