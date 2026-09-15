@@ -55,6 +55,11 @@
                         "name": "ptegibling5",
                         "discord": "ptegibling5",
                         "email": "lcplgibling@strategictransportsalliance.com"
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
                     }
                 }
             ]
@@ -80,10 +85,27 @@
                     "id": "developer",
                     "name": "Developer",
                     "requirements": [
-                        ""
+                        "Must have appropriate knowledge of the systems, platforms or development work used by STA.",
+                        "Must be capable of troubleshooting technical problems.",
+                        "Must understand the importance of testing changes before implementation.",
+                        "Must be able to document technical changes where necessary.",
+                        "Must communicate effectively with Senior Management and other departments.",
+                        "Must maintain appropriate security and confidentiality when accessing STA systems.",
+                        "Manager must be capable of allocating and supervising development work.",
+                        "Manager must have sufficient technical knowledge to review the work completed by the department."
                     ],
                     "responsibilities": [
-                        ""
+                        "Maintain and develop STA's technical systems and infrastructure.",
+                        "Investigate and resolve technical problems.",
+                        "Develop new systems, tools and features where required.",
+                        "Maintain existing systems and ensure they remain operational.",
+                        "Test changes before deployment.",
+                        "Maintain backups and appropriate technical documentation where applicable.",
+                        "Manage permissions and technical access where authorised.",
+                        "Work with other departments to develop systems that support their operations.",
+                        "Report significant technical problems or security concerns to Senior Management.",
+                        "Ensure development projects are appropriately planned and managed.",
+                        "Maintain a record of major changes where necessary."
                     ],
                     "responsibleDirector": {
                         "name": "",
@@ -119,10 +141,29 @@
                     "id": "hr",
                     "name": "Human Resources",
                     "requirements": [
-                        ""
+                        "Must have a strong understanding of STA's staff rules, policies and procedures.",
+                        "Must demonstrate maturity, fairness and impartiality.",
+                        "Must be capable of handling confidential information appropriately.",
+                        "Must have strong communication and conflict-resolution skills.",
+                        "Must be capable of investigating staff concerns and complaints professionally.",
+                        "Must avoid favouritism when dealing with staff matters.",
+                        "Manager must be capable of supervising recruitment, disciplinary and staff-management processes.",
+                        "Manager must know when matters should be escalated to Senior Management."
                     ],
                     "responsibilities": [
-                        ""
+                        "Oversee staff recruitment and onboarding.",
+                        "Manage staff records and relevant internal information.",
+                        "Process promotions, transfers, resignations and removals where authorised.",
+                        "Manage staff Leave of Absence processes.",
+                        "Investigate staff complaints and internal concerns.",
+                        "Handle disciplinary matters within the authority delegated to Human Resources.",
+                        "Escalate serious disciplinary matters to Senior Management.",
+                        "Ensure staff are treated fairly and consistently.",
+                        "Monitor staff activity where required.",
+                        "Support Managers with staff-related matters.",
+                        "Maintain appropriate confidentiality.",
+                        "Ensure staff understand relevant STA policies and expectations.",
+                        "Assist with management recruitment and appointments where required."
                     ],
                     "responsibleDirector": {
                         "name": "",
@@ -158,10 +199,26 @@
                     "id": "media",
                     "name": "Media Staff",
                     "requirements": [
-                        ""
+                        "Must have a good understanding of STA's branding and public image.",
+                        "Must demonstrate good written communication.",
+                        "Must understand appropriate standards for public communications.",
+                        "Must be capable of planning and coordinating media coverage.",
+                        "Must be able to work with other departments when promoting events or announcements.",
+                        "Manager must be capable of reviewing and approving media before publication where required.",
+                        "Manager must ensure published content appropriately represents STA."
                     ],
                     "responsibilities": [
-                        ""
+                        "Manage STA's social media and public-facing media presence.",
+                        "Produce and coordinate posts, announcements and promotional material.",
+                        "Provide media coverage for STA activities and events.",
+                        "Coordinate photography, videography and other media where applicable.",
+                        "Work with the Graphic Design Team when graphical material is required.",
+                        "Maintain consistent STA branding across published content.",
+                        "Ensure public information is accurate before publication.",
+                        "Maintain appropriate standards when responding publicly on behalf of STA.",
+                        "Plan media campaigns for major events or announcements.",
+                        "Maintain an appropriate media schedule where required.",
+                        "Report reputational concerns to Senior Management."
                     ],
                     "responsibleDirector": {
                         "name": "",
@@ -197,10 +254,25 @@
                     "id": "graphics-designer",
                     "name": "Graphics Designer",
                     "requirements": [
-                        ""
+                        "Must demonstrate appropriate graphic-design skills.",
+                        "Must understand STA's branding and visual standards.",
+                        "Must be capable of producing graphics suitable for public use.",
+                        "Must be able to work from briefs supplied by other departments.",
+                        "Must be capable of meeting reasonable deadlines.",
+                        "Manager must be capable of reviewing designs and maintaining consistent quality.",
+                        "Manager must ensure STA branding is used correctly."
                     ],
                     "responsibilities": [
-                        ""
+                        "Produce graphics required by STA.",
+                        "Create event graphics, advertisements, announcements and promotional material.",
+                        "Maintain STA's visual identity.",
+                        "Maintain templates and reusable graphical resources.",
+                        "Work with the Media and Event Teams on promotional requirements.",
+                        "Review graphics before publication where required.",
+                        "Ensure logos, branding and other assets are used correctly.",
+                        "Maintain organised storage of design assets and source files where appropriate.",
+                        "Update existing designs when STA branding changes.",
+                        "Ensure completed designs meet the requirements of the requesting department."
                     ],
                     "responsibleDirector": {
                         "name": "",
@@ -236,10 +308,27 @@
                     "id": "event",
                     "name": "Event Staff",
                     "requirements": [
-                        ""
+                        "Must have a strong understanding of STA's event policies and procedures.",
+                        "Must understand TruckersMP event systems and general convoy procedures.",
+                        "Must be capable of reviewing event invitations against STA requirements.",
+                        "Must demonstrate good organisational and communication skills.",
+                        "Must understand STA's attendance, slot-booking and event-information requirements.",
+                        "Manager must be capable of making or recommending event attendance decisions.",
+                        "Manager must coordinate effectively with Convoy Control, Media and Senior Management."
                     ],
                     "responsibilities": [
-                        ""
+                        "Process event invitations received by STA.",
+                        "Check invitations against STA's event requirements and policies.",
+                        "Confirm whether STA will attend invited events.",
+                        "Manage slot bookings where required.",
+                        "Maintain STA's event calendar and attendance records.",
+                        "Communicate event information to relevant staff and drivers.",
+                        "Ensure required event information is available before attendance.",
+                        "Organise STA-hosted events and convoys.",
+                        "Coordinate with Convoy Control where CC services are required.",
+                        "Coordinate with Media and Graphic Design for event promotion.",
+                        "Communicate changes, cancellations or important event information.",
+                        "Escalate unusual or significant event issues to Senior Management."
                     ],
                     "responsibleDirector": {
                         "name": "Fakke",
@@ -275,10 +364,30 @@
                     "id": "convoy-control",
                     "name": "Convoy Control",
                     "requirements": [
-                        ""
+                        "Must have strong knowledge of convoy procedures and Convoy Control operations.",
+                        "Must understand relevant TruckersMP rules.",
+                        "Must demonstrate good driving ability and situational awareness.",
+                        "Must be capable of communicating instructions clearly.",
+                        "Must understand the different Convoy Control positions and their responsibilities.",
+                        "Must remain calm and professional during incidents or unexpected situations.",
+                        "Manager must be capable of planning complete Convoy Control operations.",
+                        "Manager must be capable of allocating staff and positions appropriately.",
+                        "Manager must coordinate with event organisers and relevant STA/associated-group management."
                     ],
                     "responsibilities": [
-                        ""
+                        "Plan Convoy Control operations for events where services are being provided.",
+                        "Produce CC plans, position allocations and relevant operational information.",
+                        "Assign appropriate personnel to CC positions.",
+                        "Conduct or organise staff briefings.",
+                        "Coordinate Lead, Tail and other CC positions where required.",
+                        "Ensure staff understand the route and their assigned responsibilities.",
+                        "Monitor convoy operations during events.",
+                        "Respond to incidents or changes during the convoy.",
+                        "Maintain professional communication with event organisers.",
+                        "Ensure CC personnel appropriately represent STA and associated groups.",
+                        "Review significant incidents following events.",
+                        "Report serious operational or staff concerns to Senior Management.",
+                        "Coordinate with the Event Team where required."
                     ],
                     "responsibleDirector": {
                         "name": "",
@@ -314,10 +423,27 @@
                     "id": "support",
                     "name": "Support",
                     "requirements": [
-                        ""
+                        "Must have strong knowledge of STA's rules, policies and general operations.",
+                        "Must demonstrate good written communication.",
+                        "Must be capable of communicating professionally with members and external users.",
+                        "Must understand when an issue should be escalated.",
+                        "Must maintain confidentiality where support tickets contain private information.",
+                        "Must remain impartial when handling complaints or disputes.",
+                        "Manager must be capable of supervising the support system and reviewing escalated cases.",
+                        "Manager must ensure support decisions are consistent with STA policy."
                     ],
                     "responsibilities": [
-                        ""
+                        "Manage STA support tickets and general enquiries.",
+                        "Provide accurate information regarding STA policies and procedures.",
+                        "Direct enquiries to the appropriate department where required.",
+                        "Handle complaints within the Support Team's authority.",
+                        "Escalate staff, disciplinary or management complaints to Human Resources or Senior Management.",
+                        "Maintain professional communication throughout support cases.",
+                        "Ensure tickets are handled within appropriate timescales.",
+                        "Maintain appropriate records of support cases.",
+                        "Identify recurring problems and report them to the relevant department.",
+                        "Assist users with navigating STA's systems and processes.",
+                        "Ensure Support Team responses remain consistent and accurate."
                     ],
                     "responsibleDirector": {
                         "name": "CelticCarrots",
@@ -353,10 +479,28 @@
                     "id": "divisional-manager",
                     "name": "Divisional Manager",
                     "requirements": [
-                        ""
+                        "Must have a strong understanding of STA's driver structure and divisional system.",
+                        "Must demonstrate good leadership and organisational skills.",
+                        "Must maintain appropriate activity within STA.",
+                        "Must understand the requirements and purpose of the division they manage.",
+                        "Must communicate effectively with drivers and Senior Management.",
+                        "Must be capable of resolving routine divisional issues.",
+                        "Must maintain professional standards when representing their division.",
+                        "Must understand when matters need to be referred to another department or Senior Management."
                     ],
                     "responsibilities": [
-                        ""
+                        "Manage the day-to-day operation of their assigned division.",
+                        "Act as the main management contact for drivers within the division.",
+                        "Encourage activity and participation within the division.",
+                        "Ensure drivers follow STA rules and divisional requirements.",
+                        "Organise division-specific activities where appropriate.",
+                        "Monitor the general operation and development of the division.",
+                        "Raise concerns regarding drivers through the appropriate management process.",
+                        "Work with the Event Team to encourage participation in events.",
+                        "Communicate relevant information and changes to divisional members.",
+                        "Provide updates to Senior Management where required.",
+                        "Recommend improvements to their division.",
+                        "Ensure the division continues to operate in accordance with STA's overall objectives."
                     ],
                     "responsibleDirector": {
                         "name": "",

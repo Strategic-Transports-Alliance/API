@@ -1,0 +1,406 @@
+{
+    "version": "1",
+    "lastUpdated": "2026-09-16",
+    "lastUpdatedBy": "InfoBlock",
+    "departments": [
+        {
+            "id": "director",
+            "name": "Director",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "ss-director",
+                    "name": "Director",
+                    "requirements": [
+                        "Must demonstrate a strong understanding of Strategic Supervisions, its structure, rules, policies and operating procedures.",
+                        "Must demonstrate strong leadership, communication and decision-making skills.",
+                        "Must be capable of managing staff and resolving internal issues professionally.",
+                        "Must maintain a professional standard when representing Strategic Supervisions and any associated groups.",
+                        "Must be trustworthy with confidential or sensitive management information",
+                        "Must be capable of working independently and making appropriate decisions without constant supervision.",
+                        "Must communicate and work effectively with other members of Senior Management.",
+                        "Must demonstrate a high level of activity and commitment to Strategic Supervisions.",
+                        "Must have a good standing within Strategic Supervisions and the wider community",
+                        "Must disclose any positions, responsibilities or conflicts of interest within other organisations where they could affect their Strategic Supervisions responsibilities.",
+                        "Appointment to Director or Senior Management is subject to approval from the Founder/Owner or authorised Senior Management."
+                    ],
+                    "responsibilities": [
+                        "Oversee the operation and development of Strategic Supervisions.",
+                        "Provide leadership and guidance to Managers and departments.",
+                        "Ensure Strategic Supervisions policies, procedures and standards are being followed.",
+                        "Make decisions concerning the operation, development and future direction of Strategic Supervisions.",
+                        "Review serious staff, disciplinary or operational matters where escalation is required.",
+                        "Support Managers when dealing with complex situations.",
+                        "Ensure departments are operating effectively",
+                        "Maintain communication between Senior Management and departmental management.",
+                        "Approve significant departmental changes where required.",
+                        "Represent Strategic Supervisions professionally when communicating with external organisations.",
+                        "Protect the reputation and interests of Strategic Supervisions and its associated groups.",
+                        "Assist with recruitment or appointment of Managers and other management personnel.",
+                        "Report significant concerns to the Founder/Owner."
+                    ],
+                    "responsibleDirector": {
+                        "name": "ptegibling5",
+                        "discord": "ptegibling5",
+                        "email": "lcplgibling@strategictransportsalliance.com"
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "human-resources",
+            "name": "Human Resources",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Human%20Resources.png",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/SS/Human%20Resources.png",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "hr",
+                    "name": "Human Resources",
+                    "requirements": [
+                        "Must have a strong understanding of Strategic Supervisions's staff rules, policies and procedures.",
+                        "Must demonstrate maturity, fairness and impartiality.",
+                        "Must be capable of handling confidential information appropriately.",
+                        "Must have strong communication and conflict-resolution skills.",
+                        "Must be capable of investigating staff concerns and complaints professionally.",
+                        "Must avoid favouritism when dealing with staff matters.",
+                        "Manager must be capable of supervising recruitment, disciplinary and staff-management processes.",
+                        "Manager must know when matters should be escalated to Senior Management."
+                    ],
+                    "responsibilities": [
+                        "Oversee staff recruitment and onboarding.",
+                        "Manage staff records and relevant internal information.",
+                        "Process promotions, transfers, resignations and removals where authorised.",
+                        "Manage staff Leave of Absence processes.",
+                        "Investigate staff complaints and internal concerns.",
+                        "Handle disciplinary matters within the authority delegated to Human Resources.",
+                        "Escalate serious disciplinary matters to Senior Management.",
+                        "Ensure staff are treated fairly and consistently.",
+                        "Monitor staff activity where required.",
+                        "Support Managers with staff-related matters.",
+                        "Maintain appropriate confidentiality.",
+                        "Ensure staff understand relevant Strategic Supervisions policies and expectations.",
+                        "Assist with management recruitment and appointments where required."
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "media-team",
+            "name": "Media Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Media%20Team.png",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/SS/Media%20Team.png",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "media",
+                    "name": "Media Staff",
+                    "requirements": [
+                        "Must have a good understanding of Strategic Supervisions's branding and public image.",
+                        "Must demonstrate good written communication.",
+                        "Must understand appropriate standards for public communications.",
+                        "Must be capable of planning and coordinating media coverage.",
+                        "Must be able to work with other departments when promoting events or announcements.",
+                        "Manager must be capable of reviewing and approving media before publication where required.",
+                        "Manager must ensure published content appropriately represents Strategic Supervisions."
+                    ],
+                    "responsibilities": [
+                        "Manage Strategic Supervisions's social media and public-facing media presence.",
+                        "Produce and coordinate posts, announcements and promotional material.",
+                        "Provide media coverage for Strategic Supervisions activities and events.",
+                        "Coordinate photography, videography and other media where applicable.",
+                        "Work with the Graphic Design Team when graphical material is required.",
+                        "Maintain consistent Strategic Supervisions branding across published content.",
+                        "Ensure public information is accurate before publication.",
+                        "Maintain appropriate standards when responding publicly on behalf of Strategic Supervisions.",
+                        "Plan media campaigns for major events or announcements.",
+                        "Maintain an appropriate media schedule where required.",
+                        "Report reputational concerns to Senior Management."
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "graphics-design-team",
+            "name": "Graphics Design Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Graphic%20Design%20Team.png",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/SS/Graphic%20Design%20Team.png",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "graphics-designer",
+                    "name": "Graphics Designer",
+                    "requirements": [
+                        "Must demonstrate appropriate graphic-design skills.",
+                        "Must understand Strategic Supervisions's branding and visual standards.",
+                        "Must be capable of producing graphics suitable for public use.",
+                        "Must be able to work from briefs supplied by other departments.",
+                        "Must be capable of meeting reasonable deadlines.",
+                        "Manager must be capable of reviewing designs and maintaining consistent quality.",
+                        "Manager must ensure Strategic Supervisions branding is used correctly."
+                    ],
+                    "responsibilities": [
+                        "Produce graphics required by Strategic Supervisions.",
+                        "Create event graphics, advertisements, announcements and promotional material.",
+                        "Maintain Strategic Supervisions's visual identity.",
+                        "Maintain templates and reusable graphical resources.",
+                        "Work with the Media and Event Teams on promotional requirements.",
+                        "Review graphics before publication where required.",
+                        "Ensure logos, branding and other assets are used correctly.",
+                        "Maintain organised storage of design assets and source files where appropriate.",
+                        "Update existing designs when Strategic Supervisions branding changes.",
+                        "Ensure completed designs meet the requirements of the requesting department."
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "event-team",
+            "name": "Event Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Event%20Team.png",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/SS/Event%20Team.png",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "event",
+                    "name": "Event Staff",
+                    "requirements": [
+                        "Must have a strong understanding of Strategic Supervisions's event policies and procedures.",
+                        "Must understand TruckersMP event systems and general convoy procedures.",
+                        "Must be capable of reviewing event invitations against Strategic Supervisions requirements.",
+                        "Must demonstrate good organisational and communication skills.",
+                        "Must understand Strategic Supervisions's attendance, slot-booking and event-information requirements.",
+                        "Manager must be capable of making or recommending event attendance decisions.",
+                        "Manager must coordinate effectively with Convoy Control, Media and Senior Management."
+                    ],
+                    "responsibilities": [
+                        "Process event invitations received by Strategic Supervisions.",
+                        "Check invitations against Strategic Supervisions's event requirements and policies.",
+                        "Confirm whether Strategic Supervisions will attend invited events.",
+                        "Manage slot bookings where required.",
+                        "Maintain Strategic Supervisions's event calendar and attendance records.",
+                        "Communicate event information to relevant staff and drivers.",
+                        "Ensure required event information is available before attendance.",
+                        "Organise Strategic Supervisions-hosted events and convoys.",
+                        "Coordinate with Convoy Control where CC services are required.",
+                        "Coordinate with Media and Graphic Design for event promotion.",
+                        "Communicate changes, cancellations or important event information.",
+                        "Escalate unusual or significant event issues to Senior Management."
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "convoy-control-team",
+            "name": "Convoy Control Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Convoy%20Control.png",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/SS/Convoy%20Control.png",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "convoy-control",
+                    "name": "Convoy Control",
+                    "requirements": [
+                        "Must have strong knowledge of convoy procedures and Convoy Control operations.",
+                        "Must understand relevant TruckersMP rules.",
+                        "Must demonstrate good driving ability and situational awareness.",
+                        "Must be capable of communicating instructions clearly.",
+                        "Must understand the different Convoy Control positions and their responsibilities.",
+                        "Must remain calm and professional during incidents or unexpected situations.",
+                        "Manager must be capable of planning complete Convoy Control operations.",
+                        "Manager must be capable of allocating staff and positions appropriately.",
+                        "Manager must coordinate with event organisers and relevant Strategic Supervisions/associated-group management."
+                    ],
+                    "responsibilities": [
+                        "Plan Convoy Control operations for events where services are being provided.",
+                        "Produce CC plans, position allocations and relevant operational information.",
+                        "Assign appropriate personnel to CC positions.",
+                        "Conduct or organise staff briefings.",
+                        "Coordinate Lead, Tail and other CC positions where required.",
+                        "Ensure staff understand the route and their assigned responsibilities.",
+                        "Monitor convoy operations during events.",
+                        "Respond to incidents or changes during the convoy.",
+                        "Maintain professional communication with event organisers.",
+                        "Ensure CC personnel appropriately represent Strategic Supervisions and associated groups.",
+                        "Review significant incidents following events.",
+                        "Report serious operational or staff concerns to Senior Management.",
+                        "Coordinate with the Event Team where required."
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        },
+        {
+            "id": "support-team",
+            "name": "Support Team",
+            "recruitment": {
+                "open": false,
+                "banners": {
+                    "open": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Support%20Team.png",
+                        "alt": ""
+                    },
+                    "closed": {
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/SS/Support%20Team.png",
+                        "alt": ""
+                    }
+                }
+            },
+            "roles": [
+                {
+                    "id": "support",
+                    "name": "Support",
+                    "requirements": [
+                        "Must have strong knowledge of Strategic Supervisions's rules, policies and general operations.",
+                        "Must demonstrate good written communication.",
+                        "Must be capable of communicating professionally with members and external users.",
+                        "Must understand when an issue should be escalated.",
+                        "Must maintain confidentiality where support tickets contain private information.",
+                        "Must remain impartial when handling complaints or disputes.",
+                        "Manager must be capable of supervising the support system and reviewing escalated cases.",
+                        "Manager must ensure support decisions are consistent with Strategic Supervisions policy."
+                    ],
+                    "responsibilities": [
+                        "Manage Strategic Supervisions support tickets and general enquiries.",
+                        "Provide accurate information regarding Strategic Supervisions policies and procedures.",
+                        "Direct enquiries to the appropriate department where required.",
+                        "Handle complaints within the Support Team's authority.",
+                        "Escalate staff, disciplinary or management complaints to Human Resources or Senior Management.",
+                        "Maintain professional communication throughout support cases.",
+                        "Ensure tickets are handled within appropriate timescales.",
+                        "Maintain appropriate records of support cases.",
+                        "Identify recurring problems and report them to the relevant department.",
+                        "Assist users with navigating Strategic Supervisions's systems and processes.",
+                        "Ensure Support Team responses remain consistent and accurate."
+                    ],
+                    "responsibleDirector": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    },
+                    "responsibleManager": {
+                        "name": "",
+                        "discord": "",
+                        "email": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
