@@ -67,7 +67,7 @@ jobs:
 
             if (isCurrent) {
               newValue = {
-                ..value,
+                ...value,
                 available: 'Booking Closed',
                 hexcode: '#ff0000'
               }
