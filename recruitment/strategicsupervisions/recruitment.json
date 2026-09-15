@@ -68,7 +68,7 @@
             "id": "human-resources",
             "name": "Human Resources",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Human%20Resources.png",
@@ -126,7 +126,7 @@
             "id": "media-team",
             "name": "Media Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Media%20Team.png",
@@ -181,7 +181,7 @@
             "id": "graphics-design-team",
             "name": "Graphics Design Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Graphic%20Design%20Team.png",
@@ -235,7 +235,7 @@
             "id": "event-team",
             "name": "Event Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Event%20Team.png",
@@ -291,7 +291,7 @@
             "id": "convoy-control-team",
             "name": "Convoy Control Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Convoy%20Control.png",
@@ -350,7 +350,7 @@
             "id": "support-team",
             "name": "Support Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/SS/Support%20Team.png",

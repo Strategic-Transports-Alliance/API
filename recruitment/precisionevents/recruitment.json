@@ -68,7 +68,7 @@
             "id": "human-resources",
             "name": "Human Resources",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/PE/Human%20Resources.png",
@@ -126,7 +126,7 @@
             "id": "media-team",
             "name": "Media Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/PE/Media%20Team.png",
@@ -181,7 +181,7 @@
             "id": "graphics-design-team",
             "name": "Graphics Design Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/PE/Graphic%20Design%20Team.png",
@@ -235,7 +235,7 @@
             "id": "event-team",
             "name": "Event Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/PE/Event%20Team.png",
@@ -291,14 +291,14 @@
             "id": "convoy-control-team",
             "name": "Convoy Control Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
-                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/PE/Convoy%20Control.png",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/PE/Convoy%20Control%20Team.png",
                         "alt": ""
                     },
                     "closed": {
-                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/PE/Convoy%20Control.png",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/PE/Convoy%20Control%20Team.png",
                         "alt": ""
                     }
                 }
@@ -350,7 +350,7 @@
             "id": "support-team",
             "name": "Support Team",
             "recruitment": {
-                "open": false,
+                "open": true,
                 "banners": {
                     "open": {
                         "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/PE/Support%20Team.png",
