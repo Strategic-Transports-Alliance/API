@@ -4,8 +4,8 @@
     "lastUpdatedBy": "InfoBlock",
     "departments": [
         {
-            "id": "director-sm",
-            "name": "Director / Senior Management",
+            "id": "director",
+            "name": "Director",
             "recruitment": {
                 "open": false,
                 "banners": {
@@ -21,8 +21,8 @@
             },
             "roles": [
                 {
-                    "id": "director-senior-management",
-                    "name": "Director / Senior Management",
+                    "id": "sta-director",
+                    "name": "Director",
                     "requirements": [
                         "Must demonstrate a strong understanding of Strategic Transports Alliance (STA), its structure, rules, policies and operating procedures.",
                         "Must demonstrate strong leadership, communication and decision-making skills.",
@@ -55,11 +55,6 @@
                         "name": "ptegibling5",
                         "discord": "ptegibling5",
                         "email": "lcplgibling@strategictransportsalliance.com"
-                    },
-                    "responsibleManager": {
-                        "name": "",
-                        "discord": "",
-                        "email": ""
                     }
                 }
             ]
@@ -339,7 +334,7 @@
         },
         {
             "id": "divisional-management",
-            "name": "Divisional Managegement",
+            "name": "Divisional Management",
             "recruitment": {
                 "open": false,
                 "banners": {
