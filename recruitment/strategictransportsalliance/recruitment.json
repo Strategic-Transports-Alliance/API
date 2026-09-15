@@ -344,11 +344,11 @@
                 "open": false,
                 "banners": {
                     "open": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/open/Divisional%20Manager.png",
                         "alt": ""
                     },
                     "closed": {
-                        "image": "",
+                        "image": "https://strategictransportsalliance.com/assets/img/recruitment/closed/Divisional%20Manager.png",
                         "alt": ""
                     }
                 }
