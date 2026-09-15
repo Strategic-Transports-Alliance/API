@@ -42,8 +42,8 @@
                 "amount": "0/4"
             },
             "September 2026": {
-                "available": "Bookings Questionable",
-                "hexcode": "#ff00ff",
+                "available": "Booking Closed",
+                "hexcode": "#ff0000",
                 "amount": "1/6"
             },
             "October 2026": {
