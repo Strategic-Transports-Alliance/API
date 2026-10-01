@@ -41,14 +41,14 @@
                 "hexcode": "#1ac31f",
                 "amount": "0/4"
             },
-            "September 2026": {
-                "available": "Booking Closed",
-                "hexcode": "#ff0000",
-                "amount": "1/6"
-            },
-            "October 2026": {
+            "September 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
+                "amount": "0/6"
+            },
+            "October 2026": {
+                "available": "Booking Closed",
+                "hexcode": "#ff0000",
                 "amount": "1/6"
             },
             "November 2026": {
