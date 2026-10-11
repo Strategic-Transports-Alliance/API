@@ -2,49 +2,49 @@
     "response": {
         "availability": {
             "January 2027": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "0/4"
+                "available": "Nearly Fully Booked",
+                "hexcode": "#ff8000",
+                "amount": "2/4"
             },
             "February 2027": {
-                "available": "Available for invites",
-                "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "available": "Nearly Fully Booked",
+                "hexcode": "#ff8000",
+                "amount": "2/6"
             },
             "March 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "amount": "1/6"
             },
             "April 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "amount": "1/6"
             },
             "May 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "amount": "1/6"
             },
             "June 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "amount": "1/6"
             },
             "July 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "amount": "1/6"
             },
             "August 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/4"
+                "amount": "1/4"
             },
             "September 2027": {
                 "available": "Available for invites",
                 "hexcode": "#1ac31f",
-                "amount": "0/6"
+                "amount": "1/6"
             },
             "October 2026": {
                 "available": "Booking Closed",
